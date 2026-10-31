@@ -1,0 +1,572 @@
+{
+  "method": "Frozen own-team distributions; per-day top five ranked without target results; may contain fewer than five on a day",
+  "warning": "Previously viewed retrospective October data, not blind; no market edge inferred",
+  "periods": {
+    "last30": {
+      "targets": 369,
+      "available": 277,
+      "skipped": 92,
+      "tails": {
+        "zero_one": {
+          "all_available": {
+            "n": 277,
+            "mean_probability": 0.21520651674459518,
+            "actual_events": 52,
+            "observed_rate": 0.18772563176895307,
+            "brier": 0.15459336002544288
+          },
+          "daily_top_five": {
+            "n": 105,
+            "mean_probability": 0.27067357151044763,
+            "actual_events": 21,
+            "observed_rate": 0.2,
+            "brier": 0.16244926967475576
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 17,
+              "mean_probability": 0.08848029358115357,
+              "actual_events": 3,
+              "observed_rate": 0.17647058823529413,
+              "brier": 0.15193619202114475
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 106,
+              "mean_probability": 0.1552548172596934,
+              "actual_events": 16,
+              "observed_rate": 0.1509433962264151,
+              "brier": 0.12984948828089293
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 117,
+              "mean_probability": 0.24666405717392975,
+              "actual_events": 21,
+              "observed_rate": 0.1794871794871795,
+              "brier": 0.1567859565350515
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 33,
+              "mean_probability": 0.33252399022656015,
+              "actual_events": 10,
+              "observed_rate": 0.30303030303030304,
+              "brier": 0.2215180349928024
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 3,
+              "mean_probability": 0.4291939403717568,
+              "actual_events": 1,
+              "observed_rate": 0.3333333333333333,
+              "brier": 0.20029369094491498
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 1,
+              "mean_probability": 0.5304613299042147,
+              "actual_events": 1,
+              "observed_rate": 1.0,
+              "brier": 0.22046656271531873
+            }
+          ]
+        },
+        "four_plus": {
+          "all_available": {
+            "n": 277,
+            "mean_probability": 0.3575015992435485,
+            "actual_events": 97,
+            "observed_rate": 0.35018050541516244,
+            "brier": 0.2269568714407798
+          },
+          "daily_top_five": {
+            "n": 105,
+            "mean_probability": 0.41902172402128796,
+            "actual_events": 47,
+            "observed_rate": 0.44761904761904764,
+            "brier": 0.25671675790242526
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 1,
+              "mean_probability": 0.08423653368865389,
+              "actual_events": 0,
+              "observed_rate": 0.0,
+              "brier": 0.007095793607879721
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 12,
+              "mean_probability": 0.17350353652693665,
+              "actual_events": 3,
+              "observed_rate": 0.25,
+              "brier": 0.19532602894673076
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 84,
+              "mean_probability": 0.2554135541497769,
+              "actual_events": 26,
+              "observed_rate": 0.30952380952380953,
+              "brier": 0.2139488616967665
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 87,
+              "mean_probability": 0.3502633923290883,
+              "actual_events": 31,
+              "observed_rate": 0.3563218390804598,
+              "brier": 0.22632632507945377
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 56,
+              "mean_probability": 0.44056395547760524,
+              "actual_events": 21,
+              "observed_rate": 0.375,
+              "brier": 0.23253053985840685
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 37,
+              "mean_probability": 0.5476332116349515,
+              "actual_events": 16,
+              "observed_rate": 0.43243243243243246,
+              "brier": 0.2657362257193436
+            }
+          ]
+        },
+        "five_plus": {
+          "all_available": {
+            "n": 277,
+            "mean_probability": 0.19880467272547617,
+            "actual_events": 52,
+            "observed_rate": 0.18772563176895307,
+            "brier": 0.15162091499666613
+          },
+          "daily_top_five": {
+            "n": 105,
+            "mean_probability": 0.24880552583603674,
+            "actual_events": 26,
+            "observed_rate": 0.24761904761904763,
+            "brier": 0.19500420510124075
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 29,
+              "mean_probability": 0.08147302623530682,
+              "actual_events": 3,
+              "observed_rate": 0.10344827586206896,
+              "brier": 0.09179099108484129
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 127,
+              "mean_probability": 0.1492434069816235,
+              "actual_events": 20,
+              "observed_rate": 0.15748031496062992,
+              "brier": 0.1353331380381803
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 80,
+              "mean_probability": 0.24136161132536774,
+              "actual_events": 18,
+              "observed_rate": 0.225,
+              "brier": 0.17021771887600382
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 38,
+              "mean_probability": 0.34362824119591584,
+              "actual_events": 9,
+              "observed_rate": 0.23684210526315788,
+              "brier": 0.20430382117931928
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 3,
+              "mean_probability": 0.4618206086641974,
+              "actual_events": 2,
+              "observed_rate": 0.6666666666666666,
+              "brier": 0.25626115562426205
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 0
+            }
+          ]
+        },
+        "six_plus": {
+          "all_available": {
+            "n": 277,
+            "mean_probability": 0.09905834770466729,
+            "actual_events": 32,
+            "observed_rate": 0.11552346570397112,
+            "brier": 0.10226688702717329
+          },
+          "daily_top_five": {
+            "n": 105,
+            "mean_probability": 0.1326145704363556,
+            "actual_events": 18,
+            "observed_rate": 0.17142857142857143,
+            "brier": 0.144874926938031
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 162,
+              "mean_probability": 0.06069202261894749,
+              "actual_events": 16,
+              "observed_rate": 0.09876543209876543,
+              "brier": 0.09110575079250942
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 97,
+              "mean_probability": 0.13806934508409538,
+              "actual_events": 14,
+              "observed_rate": 0.14432989690721648,
+              "brier": 0.12134553817674001
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 17,
+              "mean_probability": 0.2291640223470606,
+              "actual_events": 1,
+              "observed_rate": 0.058823529411764705,
+              "brier": 0.07846416862007935
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 1,
+              "mean_probability": 0.3185397968660645,
+              "actual_events": 1,
+              "observed_rate": 1.0,
+              "brier": 0.46438800845534467
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 0
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 0
+            }
+          ]
+        }
+      }
+    },
+    "last20": {
+      "targets": 309,
+      "available": 237,
+      "skipped": 72,
+      "tails": {
+        "zero_one": {
+          "all_available": {
+            "n": 237,
+            "mean_probability": 0.2121738162227573,
+            "actual_events": 43,
+            "observed_rate": 0.18143459915611815,
+            "brier": 0.15271111998210216
+          },
+          "daily_top_five": {
+            "n": 89,
+            "mean_probability": 0.2664383549657074,
+            "actual_events": 16,
+            "observed_rate": 0.1797752808988764,
+            "brier": 0.1546104692856649
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 15,
+              "mean_probability": 0.08766781003073944,
+              "actual_events": 3,
+              "observed_rate": 0.2,
+              "brier": 0.17100103210046871
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 97,
+              "mean_probability": 0.15510132733881776,
+              "actual_events": 14,
+              "observed_rate": 0.14432989690721648,
+              "brier": 0.1261713857263854
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 94,
+              "mean_probability": 0.2455566324837601,
+              "actual_events": 17,
+              "observed_rate": 0.18085106382978725,
+              "brier": 0.15870687631634514
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 27,
+              "mean_probability": 0.33425859029533833,
+              "actual_events": 7,
+              "observed_rate": 0.25925925925925924,
+              "brier": 0.2092259825742701
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 3,
+              "mean_probability": 0.4291939403717568,
+              "actual_events": 1,
+              "observed_rate": 0.3333333333333333,
+              "brier": 0.20029369094491498
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 1,
+              "mean_probability": 0.5304613299042147,
+              "actual_events": 1,
+              "observed_rate": 1.0,
+              "brier": 0.22046656271531873
+            }
+          ]
+        },
+        "four_plus": {
+          "all_available": {
+            "n": 237,
+            "mean_probability": 0.36235378641460203,
+            "actual_events": 83,
+            "observed_rate": 0.350210970464135,
+            "brier": 0.22973679906793396
+          },
+          "daily_top_five": {
+            "n": 89,
+            "mean_probability": 0.42856772731502557,
+            "actual_events": 37,
+            "observed_rate": 0.4157303370786517,
+            "brier": 0.24684547257967504
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 1,
+              "mean_probability": 0.08423653368865389,
+              "actual_events": 0,
+              "observed_rate": 0.0,
+              "brier": 0.007095793607879721
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 12,
+              "mean_probability": 0.17350353652693665,
+              "actual_events": 3,
+              "observed_rate": 0.25,
+              "brier": 0.19532602894673076
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 65,
+              "mean_probability": 0.2574868465829015,
+              "actual_events": 22,
+              "observed_rate": 0.3384615384615385,
+              "brier": 0.22893284698411123
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 74,
+              "mean_probability": 0.3506911078965354,
+              "actual_events": 25,
+              "observed_rate": 0.33783783783783783,
+              "brier": 0.22153004232265583
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 52,
+              "mean_probability": 0.4408818950170022,
+              "actual_events": 19,
+              "observed_rate": 0.36538461538461536,
+              "brier": 0.23151461214206598
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 33,
+              "mean_probability": 0.5484219047009832,
+              "actual_events": 14,
+              "observed_rate": 0.42424242424242425,
+              "brier": 0.2661816733606215
+            }
+          ]
+        },
+        "five_plus": {
+          "all_available": {
+            "n": 237,
+            "mean_probability": 0.20266687165853897,
+            "actual_events": 47,
+            "observed_rate": 0.19831223628691982,
+            "brier": 0.1590058208165156
+          },
+          "daily_top_five": {
+            "n": 89,
+            "mean_probability": 0.25649807319302165,
+            "actual_events": 22,
+            "observed_rate": 0.24719101123595505,
+            "brier": 0.1949857247825553
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 24,
+              "mean_probability": 0.07905626817260798,
+              "actual_events": 3,
+              "observed_rate": 0.125,
+              "brier": 0.1091066372708996
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 103,
+              "mean_probability": 0.1499777962418266,
+              "actual_events": 18,
+              "observed_rate": 0.17475728155339806,
+              "brier": 0.1469220749966662
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 74,
+              "mean_probability": 0.24252964390855045,
+              "actual_events": 17,
+              "observed_rate": 0.22972972972972974,
+              "brier": 0.1723800107715609
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 33,
+              "mean_probability": 0.3440705957211418,
+              "actual_events": 7,
+              "observed_rate": 0.21212121212121213,
+              "brier": 0.19418006819356654
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 3,
+              "mean_probability": 0.4618206086641974,
+              "actual_events": 2,
+              "observed_rate": 0.6666666666666666,
+              "brier": 0.25626115562426205
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 0
+            }
+          ]
+        },
+        "six_plus": {
+          "all_available": {
+            "n": 237,
+            "mean_probability": 0.10157453534090571,
+            "actual_events": 28,
+            "observed_rate": 0.11814345991561181,
+            "brier": 0.10421172835912787
+          },
+          "daily_top_five": {
+            "n": 89,
+            "mean_probability": 0.13771090754321025,
+            "actual_events": 15,
+            "observed_rate": 0.16853932584269662,
+            "brier": 0.14046503808052319
+          },
+          "calibration_bands": [
+            {
+              "low": 0,
+              "high": 0.1,
+              "n": 132,
+              "mean_probability": 0.060761965818057886,
+              "actual_events": 14,
+              "observed_rate": 0.10606060606060606,
+              "brier": 0.09722978640408227
+            },
+            {
+              "low": 0.1,
+              "high": 0.2,
+              "n": 89,
+              "mean_probability": 0.13795119501085387,
+              "actual_events": 12,
+              "observed_rate": 0.1348314606741573,
+              "brier": 0.11418101401646952
+            },
+            {
+              "low": 0.2,
+              "high": 0.3,
+              "n": 15,
+              "mean_probability": 0.2304259489985968,
+              "actual_events": 1,
+              "observed_rate": 0.06666666666666667,
+              "brier": 0.0824899706568876
+            },
+            {
+              "low": 0.3,
+              "high": 0.4,
+              "n": 1,
+              "mean_probability": 0.3185397968660645,
+              "actual_events": 1,
+              "observed_rate": 1.0,
+              "brier": 0.46438800845534467
+            },
+            {
+              "low": 0.4,
+              "high": 0.5,
+              "n": 0
+            },
+            {
+              "low": 0.5,
+              "high": 1,
+              "n": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+}
