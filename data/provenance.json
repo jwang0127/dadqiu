@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-10-31T18:14:50.606989+08:00",
+  "source": "China Sports Lottery Sporttery official football API",
+  "case_count": 2466,
+  "historical_input_rule": "Only each target team own games in same competition; target date minus 2 days through last 365 days; maximum 12 per team",
+  "endpoints": {
+    "home_all": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId={match_id}&termLimits=20&tournamentFlag=1&homeAwayFlag=0",
+    "venue": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId={match_id}&termLimits=20&tournamentFlag=1&homeAwayFlag=1",
+    "identity": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId={match_id}"
+  },
+  "cautions": [
+    "Retrospective retrieval does not prove original availability at historical kickoff",
+    "Official historical totals are 90 minutes; unknown extra-time periods excluded",
+    "No confirmed lineups, verified historical minutes or xG inputs in selected model"
+  ],
+  "prices_discarded": true,
+  "league_statistics_used": false,
+  "league_priors_used": false,
+  "sha256": {
+    "audit.json": "84578a354001107252169b37887e21d3c7b007a974c2c7dd9bfe7c50d343f87f",
+    "cases.jsonl": "888317a51768b8c66e0fd52c07dd40e22219791695ac55a95a79607159f7bfe1",
+    "model.json": "b97b0df4485232f83943e3faa863ba6347254fb08a526e710f7e385895ffc9e6",
+    "outcomes.json": "5520c980c9391310979447aafd3f66e3c85f58789244a9c6448bafc453f6eba6",
+    "today.json": "c116d9ab2b5611b99a6b75e7280ab7e23a6fc06dceeda50f321ada2b72995f56",
+    "ui-audit.json": "60ff5a908885d6408c9a771764fd6b11b6e5eb6c22fc3fab14feda617c465360",
+    "validation.json": "b227a5787a2f48cef56abe79cf724bbd1974b95beb33b7d72b8ea8fed96b4736"
+  }
+}

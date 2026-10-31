@@ -1,0 +1,273 @@
+{
+  "version": "team-only-researched-v3",
+  "selected_config": {
+    "name": "own_uncertainty",
+    "season": false,
+    "other": 0.5,
+    "half": 180,
+    "limit": 12,
+    "robust": false,
+    "dispersion": 0,
+    "opponents": false,
+    "family": "own_uncertainty"
+  },
+  "selection_period": [
+    "2026-07-01",
+    "2026-09-28"
+  ],
+  "development_common_n": 355,
+  "candidate_scores": [
+    {
+      "config": {
+        "name": "old_venue6",
+        "season": false,
+        "other": 0,
+        "half": 0,
+        "limit": 6,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": false
+      },
+      "n": 355,
+      "logloss": 1.9337374435205998,
+      "brier3": 0.25539026088461453,
+      "brier4": 0.2247791238900557,
+      "brier5": 0.14027518697252508,
+      "high_p3_n": 100,
+      "high_p3_actual": 63,
+      "high_p3_mean": 0.689814798112324,
+      "high_p3_observed": 0.63
+    },
+    {
+      "config": {
+        "name": "current_own_blend",
+        "season": true,
+        "other": 0.5,
+        "half": 90,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": false
+      },
+      "n": 355,
+      "logloss": 1.9077657664808536,
+      "brier3": 0.24622770815695702,
+      "brier4": 0.21901507741184126,
+      "brier5": 0.1387471952724807,
+      "high_p3_n": 108,
+      "high_p3_actual": 71,
+      "high_p3_mean": 0.6730873459261404,
+      "high_p3_observed": 0.6574074074074074
+    },
+    {
+      "config": {
+        "name": "current_own_all",
+        "season": true,
+        "other": 1,
+        "half": 90,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": false
+      },
+      "n": 355,
+      "logloss": 1.906173907906557,
+      "brier3": 0.24697148991595955,
+      "brier4": 0.21943798178617718,
+      "brier5": 0.13893158903844013,
+      "high_p3_n": 112,
+      "high_p3_actual": 75,
+      "high_p3_mean": 0.6704815605823496,
+      "high_p3_observed": 0.6696428571428571
+    },
+    {
+      "config": {
+        "name": "decayed_own_blend",
+        "season": false,
+        "other": 0.5,
+        "half": 90,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": false
+      },
+      "n": 355,
+      "logloss": 1.9063974034205116,
+      "brier3": 0.24687826220388182,
+      "brier4": 0.21881461443018735,
+      "brier5": 0.1376838723268757,
+      "high_p3_n": 106,
+      "high_p3_actual": 70,
+      "high_p3_mean": 0.6674120489353554,
+      "high_p3_observed": 0.660377358490566
+    },
+    {
+      "config": {
+        "name": "slow_own_blend",
+        "season": false,
+        "other": 0.5,
+        "half": 180,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": false
+      },
+      "n": 355,
+      "logloss": 1.9050856238056821,
+      "brier3": 0.24697857854571448,
+      "brier4": 0.21844125210805757,
+      "brier5": 0.1372448272955331,
+      "high_p3_n": 101,
+      "high_p3_actual": 65,
+      "high_p3_mean": 0.6657306229915917,
+      "high_p3_observed": 0.6435643564356436
+    },
+    {
+      "config": {
+        "name": "robust_own_blend",
+        "season": false,
+        "other": 0.5,
+        "half": 90,
+        "limit": 12,
+        "robust": true,
+        "dispersion": 0,
+        "opponents": false
+      },
+      "n": 355,
+      "logloss": 1.9101499181731496,
+      "brier3": 0.2487180469452485,
+      "brier4": 0.21896346642374545,
+      "brier5": 0.1375750618393695,
+      "high_p3_n": 86,
+      "high_p3_actual": 58,
+      "high_p3_mean": 0.6595648175967052,
+      "high_p3_observed": 0.6744186046511628
+    },
+    {
+      "config": {
+        "name": "dispersed_own_blend",
+        "season": false,
+        "other": 0.5,
+        "half": 90,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 8,
+        "opponents": false
+      },
+      "n": 355,
+      "logloss": 1.9195310116503863,
+      "brier3": 0.2473820766931463,
+      "brier4": 0.21741086745656654,
+      "brier5": 0.1385773294059429,
+      "high_p3_n": 61,
+      "high_p3_actual": 42,
+      "high_p3_mean": 0.6484013914308231,
+      "high_p3_observed": 0.6885245901639344
+    },
+    {
+      "config": {
+        "name": "opponent_own_history",
+        "season": false,
+        "other": 0.5,
+        "half": 90,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": true
+      },
+      "n": 355,
+      "logloss": 1.9298806730817506,
+      "brier3": 0.2520688928551952,
+      "brier4": 0.2291564802736678,
+      "brier5": 0.14291089399817272,
+      "high_p3_n": 133,
+      "high_p3_actual": 87,
+      "high_p3_mean": 0.6900048318094979,
+      "high_p3_observed": 0.6541353383458647
+    },
+    {
+      "config": {
+        "name": "own_uncertainty",
+        "season": false,
+        "other": 0.5,
+        "half": 180,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": false,
+        "family": "own_uncertainty"
+      },
+      "n": 355,
+      "logloss": 1.9043800230530823,
+      "brier3": 0.24692457034940926,
+      "brier4": 0.2181773505561536,
+      "brier5": 0.13719930903863428,
+      "high_p3_n": 95,
+      "high_p3_actual": 62,
+      "high_p3_mean": 0.6641510260600709,
+      "high_p3_observed": 0.6526315789473685
+    },
+    {
+      "config": {
+        "name": "own_rhythm_mixture",
+        "season": false,
+        "other": 0.5,
+        "half": 180,
+        "limit": 12,
+        "robust": false,
+        "dispersion": 0,
+        "opponents": false,
+        "family": "own_rhythm_mixture"
+      },
+      "n": 355,
+      "logloss": 1.9267710624794718,
+      "brier3": 0.2477711083277937,
+      "brier4": 0.21652529648423152,
+      "brier5": 0.1376863400771744,
+      "high_p3_n": 59,
+      "high_p3_actual": 41,
+      "high_p3_mean": 0.6456655104602083,
+      "high_p3_observed": 0.6949152542372882
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dixon & Coles (1997)",
+      "url": "https://doi.org/10.1111/1467-9876.00065",
+      "adopt": "time decay and team attack/defence structure",
+      "reject": "whole-population joint fitting; fixed-rate low-score correction does not change 3+ probability"
+    },
+    {
+      "title": "penaltyblog model documentation",
+      "url": "https://penaltyblog.readthedocs.io/en/latest/models/overview.html",
+      "adopt": "benchmark distribution families on identical fixtures",
+      "reject": "hierarchical league-wide priors and claims of automatic improvement"
+    },
+    {
+      "title": "Stan posterior predictive sampling",
+      "url": "https://mc-stan.org/docs/2_36/stan-users-guide/posterior-prediction.html",
+      "adopt": "account for parameter uncertainty; own-sample moment matching tested as approximation",
+      "reject": "claiming a full Bayesian posterior without fitting one"
+    },
+    {
+      "title": "Gneiting & Raftery (2007)",
+      "url": "https://doi.org/10.1198/016214506000001437",
+      "adopt": "proper probability scores and calibration checks",
+      "reject": "choosing only on a selected win count"
+    },
+    {
+      "title": "Forecasting: Principles and Practice",
+      "url": "https://otexts.com/fpp3/toolbox.html",
+      "adopt": "time-ordered evaluation and pre-target inputs",
+      "reject": "randomly mixing future and earlier observations"
+    }
+  ],
+  "league_statistics_used": false,
+  "league_priors_used": false,
+  "market_inputs_used": false,
+  "limitations": [
+    "Retrospective October outcomes were previously viewed, not blind",
+    "No verified historical injury/minutes coefficient",
+    "Unknown data is not imputed from league averages"
+  ]
+}

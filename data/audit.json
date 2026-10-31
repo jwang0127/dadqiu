@@ -1,0 +1,30 @@
+{
+  "passed": true,
+  "historical_targets": 369,
+  "available": 277,
+  "today_predictions": 23,
+  "unique_probability_vectors": 23,
+  "league_poisoning_ignored": true,
+  "target_outcome_ignored": true,
+  "prices_ignored": true,
+  "future_records_ignored": true,
+  "own_data_changes_result": true,
+  "no_data_returns_none": true,
+  "all_available_scores": {
+    "last30": {
+      "scope": "all available selected-model forecasts",
+      "n": 277,
+      "logloss": 1.9402683463615935,
+      "brier3": 0.2448916941495973,
+      "brier4": 0.2269568714407798
+    },
+    "last20": {
+      "scope": "all available selected-model forecasts",
+      "n": 237,
+      "logloss": 1.9520775914378836,
+      "brier3": 0.24552556296845357,
+      "brier4": 0.22973679906793396
+    }
+  },
+  "warning": "Previously viewed retrospective data; not blind validation"
+}
