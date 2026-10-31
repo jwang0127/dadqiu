@@ -73,6 +73,13 @@ def verdict(p):
     if p is None: return 'missing'
     return 'over' if p['p3']>=.60 else 'under' if p['p3']<=.40 else 'watch'
 
+def total_goals_pick(p):
+    """Most probable settlement bucket; exact ties choose the lower bucket.
+    Bucket 7 means seven OR MORE, never exactly seven.
+    """
+    if p is None: return None
+    return max(range(8),key=lambda i:p['probabilities'][i])
+
 def scores(p,y):
     return dict(logloss=-math.log(max(p['probabilities'][min(y,7)],1e-12)),
                 brier3=(p['p3']-(y>=3))**2,brier4=(p['p4']-(y>=4))**2)

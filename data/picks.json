@@ -1,0 +1,131 @@
+{
+  "presentation_updated_at": "2026-10-31T18:27:52.295296+08:00",
+  "model_unchanged": true,
+  "rule": "argmax full precision 0..6 and aggregated 7+; exact ties choose lower bucket",
+  "picks": [
+    {
+      "match_id": "2042385",
+      "total_goals_pick": null
+    },
+    {
+      "match_id": "2042386",
+      "total_goals_pick": null
+    },
+    {
+      "match_id": "2042387",
+      "total_goals_pick": null
+    },
+    {
+      "match_id": "2042388",
+      "total_goals_pick": null
+    },
+    {
+      "match_id": "2042389",
+      "total_goals_pick": null
+    },
+    {
+      "match_id": "2042390",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042391",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042392",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042393",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042394",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042395",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042396",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042397",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042398",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042399",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042400",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042401",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042402",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042403",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042404",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042405",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042406",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042407",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042408",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042409",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042410",
+      "total_goals_pick": 2
+    },
+    {
+      "match_id": "2042411",
+      "total_goals_pick": 3
+    },
+    {
+      "match_id": "2042412",
+      "total_goals_pick": 3
+    }
+  ],
+  "retrospective_exact_bucket_metrics": {
+    "last30": {
+      "available": 277,
+      "exact_bucket_hits": 61,
+      "hit_rate": 0.22021660649819494
+    },
+    "last20": {
+      "available": 237,
+      "exact_bucket_hits": 56,
+      "hit_rate": 0.23628691983122363
+    }
+  }
+}
