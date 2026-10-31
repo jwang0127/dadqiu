@@ -1,0 +1,312 @@
+{
+  "protocol": {
+    "training_start": "2026-04-01",
+    "training_end": "2026-09-28",
+    "embargo_days": 2,
+    "rolling_test_months": [
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10"
+    ],
+    "objective": "mean(Brier P0-1, Brier P5+, Brier P6+) + 0.01 * eight-bucket logloss",
+    "eligibility": "at least 200 baseline-available training targets; candidate covers every baseline training target; logloss <= baseline + 0.02",
+    "selection": "minimum objective, then logloss, then name; candidates include unchanged v3",
+    "evaluation": "paired fixtures plus all-target coverage; daily top20pct ranking, AP, calibration, date-block bootstrap",
+    "warning": "October and earlier model evaluations have previously been viewed; all results remain retrospective, not blind",
+    "no_league_statistics_or_priors": true,
+    "no_market_inputs": true,
+    "no_html_changes": true
+  },
+  "candidates": [
+    {
+      "name": "v3",
+      "family": "baseline",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "unbiased",
+      "family": "weighted_variance",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "unbiased"
+    },
+    {
+      "name": "cluster",
+      "family": "overlap_covariance",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster"
+    },
+    {
+      "name": "half_45",
+      "family": "time_window_venue",
+      "other": 0.5,
+      "half": 45,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "half_90",
+      "family": "time_window_venue",
+      "other": 0.5,
+      "half": 90,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "half_365",
+      "family": "time_window_venue",
+      "other": 0.5,
+      "half": 365,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "window_8",
+      "family": "time_window_venue",
+      "other": 0.5,
+      "half": 180,
+      "limit": 8,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "window_20",
+      "family": "time_window_venue",
+      "other": 0.5,
+      "half": 180,
+      "limit": 20,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "venue_0.25",
+      "family": "time_window_venue",
+      "other": 0.25,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "venue_0.75",
+      "family": "time_window_venue",
+      "other": 0.75,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "venue_1",
+      "family": "time_window_venue",
+      "other": 1,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original"
+    },
+    {
+      "name": "season_0",
+      "family": "regime",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 0,
+      "variance": "original"
+    },
+    {
+      "name": "season_0.25",
+      "family": "regime",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 0.25,
+      "variance": "original"
+    },
+    {
+      "name": "season_0.5",
+      "family": "regime",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 0.5,
+      "variance": "original"
+    },
+    {
+      "name": "recent_gap",
+      "family": "regime",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original",
+      "gap": true
+    },
+    {
+      "name": "huber_1.35",
+      "family": "outlier",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original",
+      "robust": 1.35
+    },
+    {
+      "name": "huber_2",
+      "family": "outlier",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original",
+      "robust": 2
+    },
+    {
+      "name": "opponents_0.25",
+      "family": "opponent_strength",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original",
+      "opponents": 0.25
+    },
+    {
+      "name": "opponents_0.5",
+      "family": "opponent_strength",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "original",
+      "opponents": 0.5
+    },
+    {
+      "name": "process_0.25",
+      "family": "distribution",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "process": 0.25
+    },
+    {
+      "name": "process_0.5",
+      "family": "distribution",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "process": 0.5
+    },
+    {
+      "name": "process_1",
+      "family": "distribution",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "process": 1
+    },
+    {
+      "name": "empirical_0.1",
+      "family": "distribution",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "empirical": 0.1
+    },
+    {
+      "name": "empirical_0.25",
+      "family": "distribution",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "empirical": 0.25
+    },
+    {
+      "name": "hurdle_0.25",
+      "family": "distribution",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "hurdle": 0.25
+    },
+    {
+      "name": "hurdle_0.5",
+      "family": "distribution",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "hurdle": 0.5
+    },
+    {
+      "name": "combo_90_0.5",
+      "family": "combined",
+      "other": 0.5,
+      "half": 90,
+      "limit": 12,
+      "season_weight": 0.5,
+      "variance": "cluster",
+      "process": 0.25
+    },
+    {
+      "name": "combo_90_1",
+      "family": "combined",
+      "other": 0.5,
+      "half": 90,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "process": 0.25
+    },
+    {
+      "name": "combo_180_0.5",
+      "family": "combined",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 0.5,
+      "variance": "cluster",
+      "process": 0.25
+    },
+    {
+      "name": "combo_180_1",
+      "family": "combined",
+      "other": 0.5,
+      "half": 180,
+      "limit": 12,
+      "season_weight": 1,
+      "variance": "cluster",
+      "process": 0.25
+    }
+  ],
+  "created_at": "2026-10-31T11:02:34.950161+00:00",
+  "data_sha256": "888317a51768b8c66e0fd52c07dd40e22219791695ac55a95a79607159f7bfe1"
+}

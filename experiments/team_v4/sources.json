@@ -1,0 +1,77 @@
+{
+  "checked_on": "2026-10-31",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Forecast evaluation pitfalls and best practices",
+      "url": "https://link.springer.com/article/10.1007/s10618-022-00894-5",
+      "use": "time-of-availability, data leakage and honest retrospective labels"
+    },
+    {
+      "id": 2,
+      "title": "Alan Turing Institute: rolling-origin evaluation",
+      "url": "https://alan-turing-institute.github.io/tea-techniques/techniques/rolling-origin-evaluation/",
+      "use": "repeated earlier-only model selection with date embargo"
+    },
+    {
+      "id": 3,
+      "title": "Evaluating Probabilistic Classifiers: The Triptych",
+      "url": "https://arxiv.org/abs/2301.10803",
+      "use": "separate calibration, discrimination and proper probability scores"
+    },
+    {
+      "id": 4,
+      "title": "NumPy weighted covariance normalization",
+      "url": "https://numpy.org/doc/stable/reference/generated/numpy.cov.html",
+      "use": "analytic-weight finite-sample denominator; frequency weights are not reliability weights"
+    },
+    {
+      "id": 5,
+      "title": "Statsmodels cluster covariance",
+      "url": "https://www.statsmodels.org/dev/generated/statsmodels.stats.sandwich_covariance.cov_cluster.html",
+      "use": "group observations by original fixture; own covariance plug-in is an approximation, not library regression CRV"
+    },
+    {
+      "id": 6,
+      "title": "Koopman and Lit: dynamic football model",
+      "url": "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12042",
+      "use": "time-varying individual team strength and opponent attack/defence motivation; no whole-league latent fit copied"
+    },
+    {
+      "id": 7,
+      "title": "Scikit-learn TimeSeriesSplit",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.TimeSeriesSplit.html",
+      "use": "earlier-only tuning and explicit gap; implemented on dates rather than irregular row-count splits"
+    },
+    {
+      "id": 8,
+      "title": "Scikit-learn HuberRegressor",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.HuberRegressor.html",
+      "use": "bounded-residual robust location candidate; custom weighted location rather than a copied regression fit"
+    },
+    {
+      "id": 9,
+      "title": "Scikit-learn average precision",
+      "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html",
+      "use": "threshold-grouped average precision alongside Brier and prevalence"
+    },
+    {
+      "id": 10,
+      "title": "Statsmodels hurdle count models",
+      "url": "https://www.statsmodels.org/v0.14.6/examples/notebooks/generated/count_hurdle.html",
+      "use": "separate zero mass and positive counts; own-sample sensitivity candidate, not a fitted full hurdle regression"
+    },
+    {
+      "id": 11,
+      "title": "Stan posterior predictive uncertainty",
+      "url": "https://mc-stan.org/docs/stan-users-guide/posterior-prediction.html",
+      "use": "distinguish parameter uncertainty from future match count variation; no full Bayesian claim"
+    },
+    {
+      "id": 12,
+      "title": "StatsBomb: what shot-quality inputs represent",
+      "url": "https://blogarchive.statsbomb.com/articles/soccer/understanding-statsbomb-radars/",
+      "use": "document remaining gap: no uniform shot-quality, minutes or lineups available in this sample"
+    }
+  ]
+}

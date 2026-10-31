@@ -1,0 +1,25 @@
+{
+  "candidate": {
+    "name": "window_20",
+    "family": "time_window_venue",
+    "other": 0.5,
+    "half": 180,
+    "limit": 20,
+    "season_weight": 1,
+    "variance": "original"
+  },
+  "promote": false,
+  "production_model_changed": false,
+  "website_changed": false,
+  "website_sha256": {
+    "index.html": "90e67e37beb516ebe6a307f8cb745e3dd1f234e7c9748d3dec9f747f60c2026a",
+    "validation.html": "c937c0d76426169be402cda0ba05f39ff2748be562232d8e7ff93a66f4c3f472"
+  },
+  "reason": "Development winner fails October tail-objective stability; retain original v3 predictor. Infrastructure and mathematical alternatives remain in independent experiment.",
+  "tests": {
+    "tests_run": 7,
+    "passed": true,
+    "failures": 0,
+    "errors": 0
+  }
+}
