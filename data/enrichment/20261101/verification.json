@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "raw_hashes_verified": 1221,
+  "forecast_bytes_unchanged": true,
+  "distinct_espn_history_matches": 465,
+  "distinct_fotmob_history_matches": 244,
+  "all_current_kickoffs_match_official_schedule": true,
+  "model_history_cutoff_obeyed": true,
+  "historical_player_minutes_validated": true,
+  "pre_red_requires_verified_timeline_and_shots": true,
+  "predicted_and_last_xi_not_confirmed": true,
+  "normalized_market_fields_absent": true,
+  "report_rows": 25,
+  "confirmed_current_xi": 0
+}

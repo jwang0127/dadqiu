@@ -1,0 +1,696 @@
+[
+  {
+    "name": "injury_2042413",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042413",
+    "ok": true
+  },
+  {
+    "name": "player_2042413",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042413&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042413",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042413&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042413",
+    "url": "https://live.500.com/detail.php?fid=1419241",
+    "ok": true
+  },
+  {
+    "name": "injury_2042414",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042414",
+    "ok": true
+  },
+  {
+    "name": "player_2042414",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042414&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042414",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042414&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042414",
+    "url": "https://live.500.com/detail.php?fid=1504227",
+    "ok": true
+  },
+  {
+    "name": "injury_2042415",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042415",
+    "ok": true
+  },
+  {
+    "name": "player_2042415",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042415&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042415",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042415&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042415",
+    "url": "https://live.500.com/detail.php?fid=1419330",
+    "ok": true
+  },
+  {
+    "name": "injury_2042416",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042416",
+    "ok": true
+  },
+  {
+    "name": "player_2042416",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042416&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042416",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042416&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042416",
+    "url": "https://live.500.com/detail.php?fid=1504229",
+    "ok": true
+  },
+  {
+    "name": "injury_2042417",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042417",
+    "ok": true
+  },
+  {
+    "name": "player_2042417",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042417&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042417",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042417&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042417",
+    "url": "https://live.500.com/detail.php?fid=1450959",
+    "ok": true
+  },
+  {
+    "name": "injury_2042418",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042418",
+    "ok": true
+  },
+  {
+    "name": "player_2042418",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042418&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042418",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042418&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042418",
+    "url": "https://live.500.com/detail.php?fid=1416023",
+    "ok": true
+  },
+  {
+    "name": "injury_2042419",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042419",
+    "ok": true
+  },
+  {
+    "name": "player_2042419",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042419&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042419",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042419&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042419",
+    "url": "https://live.500.com/detail.php?fid=1414202",
+    "ok": true
+  },
+  {
+    "name": "injury_2042420",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042420",
+    "ok": true
+  },
+  {
+    "name": "player_2042420",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042420&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042420",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042420&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042420",
+    "url": "https://live.500.com/detail.php?fid=1428123",
+    "ok": true
+  },
+  {
+    "name": "injury_2042421",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042421",
+    "ok": true
+  },
+  {
+    "name": "player_2042421",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042421&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042421",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042421&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042421",
+    "url": "https://live.500.com/detail.php?fid=1362841",
+    "ok": true
+  },
+  {
+    "name": "injury_2042422",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042422",
+    "ok": true
+  },
+  {
+    "name": "player_2042422",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042422&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042422",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042422&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042422",
+    "url": "https://live.500.com/detail.php?fid=1416025",
+    "ok": true
+  },
+  {
+    "name": "injury_2042423",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042423",
+    "ok": true
+  },
+  {
+    "name": "player_2042423",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042423&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042423",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042423&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042423",
+    "url": "https://live.500.com/detail.php?fid=1364144",
+    "ok": true
+  },
+  {
+    "name": "injury_2042424",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042424",
+    "ok": true
+  },
+  {
+    "name": "player_2042424",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042424&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042424",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042424&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042424",
+    "url": "https://live.500.com/detail.php?fid=1414187",
+    "ok": true
+  },
+  {
+    "name": "injury_2042425",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042425",
+    "ok": true
+  },
+  {
+    "name": "player_2042425",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042425&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042425",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042425&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042425",
+    "url": "https://live.500.com/detail.php?fid=1414154",
+    "ok": true
+  },
+  {
+    "name": "injury_2042426",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042426",
+    "ok": true
+  },
+  {
+    "name": "player_2042426",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042426&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042426",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042426&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042426",
+    "url": "https://live.500.com/detail.php?fid=1428613",
+    "ok": true
+  },
+  {
+    "name": "injury_2042427",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042427",
+    "ok": true
+  },
+  {
+    "name": "player_2042427",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042427&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042427",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042427&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042427",
+    "url": "https://live.500.com/detail.php?fid=1416029",
+    "ok": true
+  },
+  {
+    "name": "injury_2042428",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042428",
+    "ok": true
+  },
+  {
+    "name": "player_2042428",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042428&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042428",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042428&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042428",
+    "url": "https://live.500.com/detail.php?fid=1420545",
+    "ok": true
+  },
+  {
+    "name": "injury_2042429",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042429",
+    "ok": true
+  },
+  {
+    "name": "player_2042429",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042429&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042429",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042429&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042429",
+    "url": "https://live.500.com/detail.php?fid=1428608",
+    "ok": true
+  },
+  {
+    "name": "injury_2042430",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042430",
+    "ok": true
+  },
+  {
+    "name": "player_2042430",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042430&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042430",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042430&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042430",
+    "url": "https://live.500.com/detail.php?fid=1414152",
+    "ok": true
+  },
+  {
+    "name": "injury_2042431",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042431",
+    "ok": true
+  },
+  {
+    "name": "player_2042431",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042431&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042431",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042431&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042431",
+    "url": "https://live.500.com/detail.php?fid=1428120",
+    "ok": true
+  },
+  {
+    "name": "injury_2042432",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042432",
+    "ok": true
+  },
+  {
+    "name": "player_2042432",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042432&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042432",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042432&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042432",
+    "url": "https://live.500.com/detail.php?fid=1438165",
+    "ok": true
+  },
+  {
+    "name": "injury_2042433",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042433",
+    "ok": true
+  },
+  {
+    "name": "player_2042433",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042433&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042433",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042433&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042433",
+    "url": "https://live.500.com/detail.php?fid=1414228",
+    "ok": true
+  },
+  {
+    "name": "injury_2042434",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042434",
+    "ok": true
+  },
+  {
+    "name": "player_2042434",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042434&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042434",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042434&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042434",
+    "url": "https://live.500.com/detail.php?fid=1415154",
+    "ok": true
+  },
+  {
+    "name": "injury_2042435",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042435",
+    "ok": true
+  },
+  {
+    "name": "player_2042435",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042435&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042435",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042435&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042435",
+    "url": "https://live.500.com/detail.php?fid=1428115",
+    "ok": true
+  },
+  {
+    "name": "injury_2042436",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042436",
+    "ok": true
+  },
+  {
+    "name": "player_2042436",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042436&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042436",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042436&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042436",
+    "url": "https://live.500.com/detail.php?fid=1489893",
+    "ok": true
+  },
+  {
+    "name": "injury_2042437",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getInjurySuspensionV1.qry?sportteryMatchId=2042437",
+    "ok": true
+  },
+  {
+    "name": "player_2042437",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchPlayerV1.qry?sportteryMatchId=2042437&termLimits=20",
+    "ok": true
+  },
+  {
+    "name": "allcomp_2042437",
+    "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042437&termLimits=20&tournamentFlag=0&homeAwayFlag=0",
+    "ok": true
+  },
+  {
+    "name": "500_2042437",
+    "url": "https://live.500.com/detail.php?fid=1358427",
+    "ok": true
+  },
+  {
+    "name": "understat_EPL_2025",
+    "url": "https://understat.com/getLeagueData/EPL/2025",
+    "ok": true
+  },
+  {
+    "name": "understat_EPL_2026",
+    "url": "https://understat.com/getLeagueData/EPL/2026",
+    "ok": true
+  },
+  {
+    "name": "understat_La_liga_2025",
+    "url": "https://understat.com/getLeagueData/La_liga/2025",
+    "ok": true
+  },
+  {
+    "name": "understat_La_liga_2026",
+    "url": "https://understat.com/getLeagueData/La_liga/2026",
+    "ok": true
+  },
+  {
+    "name": "understat_Bundesliga_2025",
+    "url": "https://understat.com/getLeagueData/Bundesliga/2025",
+    "ok": true
+  },
+  {
+    "name": "understat_Bundesliga_2026",
+    "url": "https://understat.com/getLeagueData/Bundesliga/2026",
+    "ok": true
+  },
+  {
+    "name": "understat_Serie_A_2025",
+    "url": "https://understat.com/getLeagueData/Serie_A/2025",
+    "ok": true
+  },
+  {
+    "name": "understat_Serie_A_2026",
+    "url": "https://understat.com/getLeagueData/Serie_A/2026",
+    "ok": true
+  },
+  {
+    "name": "understat_Ligue_1_2025",
+    "url": "https://understat.com/getLeagueData/Ligue_1/2025",
+    "ok": true
+  },
+  {
+    "name": "understat_Ligue_1_2026",
+    "url": "https://understat.com/getLeagueData/Ligue_1/2026",
+    "ok": true
+  },
+  {
+    "name": "espn_board_jpn.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/jpn.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_jpn.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/jpn.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_kor.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/kor.1/scoreboard?dates=2025&limit=1000",
+    "ok": false,
+    "error": "curl: (22) The requested URL returned error: 400\r\n"
+  },
+  {
+    "name": "espn_board_kor.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/kor.1/scoreboard?dates=2026&limit=1000",
+    "ok": false,
+    "error": "curl: (22) The requested URL returned error: 400\r\n"
+  },
+  {
+    "name": "espn_board_aus.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/aus.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_aus.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/aus.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_ned.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ned.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_ned.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ned.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_ita.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_ita.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_esp.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_esp.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_swe.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/swe.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_swe.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/swe.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_nor.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/nor.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_nor.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/nor.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_ger.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_ger.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_eng.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_eng.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_por.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/por.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_por.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/por.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_fra.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_fra.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_bra.copa_do_brasil_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/bra.copa_do_brasil/scoreboard?dates=2025&limit=1000",
+    "ok": false,
+    "error": "curl: (22) The requested URL returned error: 400\r\n"
+  },
+  {
+    "name": "espn_board_bra.copa_do_brasil_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/bra.copa_do_brasil/scoreboard?dates=2026&limit=1000",
+    "ok": false,
+    "error": "curl: (22) The requested URL returned error: 400\r\n"
+  },
+  {
+    "name": "espn_board_usa.1_2025",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard?dates=2025&limit=1000",
+    "ok": true
+  },
+  {
+    "name": "espn_board_usa.1_2026",
+    "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard?dates=2026&limit=1000",
+    "ok": true
+  }
+]

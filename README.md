@@ -44,3 +44,5 @@ python model/build_html.py
 ## 2026-11-01更新
 
 当前index.html为11月1日25场（24场可预测）；review.html为10月31日完整复盘。原28场页面和23场冻结概率保存在20261031/与data/daily/20261101/archive-20261031.json。详见[发布与复现说明](DAILY_REVIEW_20261031.md)。主模型未因一天结果改权重。
+
+本轮另补逐场xG、射门、红牌、球员摘要、伤停、跨赛事负荷和天气，见[逐场数据补充](context.html)及[data/enrichment/20261101/REPORT.md](data/enrichment/20261101/REPORT.md)。23场双方各有至少5场匹配xG；原预测概率未改变。原始响应压缩包另交付，仓库保留标准化数据、原始文件清单和复现脚本。

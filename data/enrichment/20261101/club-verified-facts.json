@@ -1,0 +1,158 @@
+{
+  "checked_at": "2026-11-01T10:56:06.820575+08:00",
+  "method": "Official club pages retrieved with web browser tool; curl returned 403; these are paraphrased factual observations with source links, not raw-source captures",
+  "items": [
+    {
+      "match_id": "2042427",
+      "club": "Sparta Rotterdam",
+      "url": "https://www.sparta-rotterdam.nl/sparta-in-het-hoge-noorden-tegenover-fc-groningen/",
+      "published_date": "2026-10-30",
+      "facts": [
+        {
+          "kind": "recent_match_load",
+          "fact": "Sparta played 120 minutes against Fortuna Sittard in the Wednesday cup tie before losing on penalties",
+          "date_local": "2026-10-28",
+          "minutes": 120,
+          "minutes_scope": "team match duration, not every player individual minutes"
+        },
+        {
+          "kind": "recent_match_load",
+          "fact": "Groningen played a Thursday cup match against Emmen and lost",
+          "date_local": "2026-10-29"
+        },
+        {
+          "kind": "injury",
+          "player": "Rijk Janse",
+          "team": "FC Groningen",
+          "status": "club opponent preview explicitly says unavailable due to injury"
+        },
+        {
+          "kind": "availability",
+          "player": "Shunsuke Mito",
+          "team": "Sparta Rotterdam",
+          "status": "likely return to squad; starting role not confirmed"
+        },
+        {
+          "kind": "squad",
+          "team": "Sparta Rotterdam",
+          "status": "coach appears likely to have full squad; not a confirmed match XI"
+        }
+      ]
+    },
+    {
+      "match_id": "2042423",
+      "club": "SK Brann",
+      "url": "https://www.brann.no/nyheter/for-kampen-brann-molde-2026h",
+      "published_date": "2026-10-31",
+      "facts": [
+        {
+          "kind": "suspension",
+          "team": "SK Brann",
+          "status": "club states no suspended players for this match"
+        },
+        {
+          "kind": "injury",
+          "team": "SK Brann",
+          "players": [
+            "Ulrik Mathisen",
+            "Mathias Lønne Dyngeland",
+            "Joachim Soltvedt",
+            "Jacob Lungi Sørensen"
+          ],
+          "status": "recent injury issues, match availability not explicitly confirmed"
+        },
+        {
+          "kind": "injury",
+          "team": "SK Brann",
+          "players": [
+            "Kjartan Már Kjartansson",
+            "Nana Kwame Boakye",
+            "Sakarias Opsahl",
+            "Sondre Tronstad"
+          ],
+          "status": "longer-term injury issues; no independent medical clearance data"
+        },
+        {
+          "kind": "injury",
+          "team": "Molde",
+          "player": "Halldor Stenevik",
+          "status": "Brann preview states unavailable through injury; not independently confirmed by Molde bulletin"
+        },
+        {
+          "kind": "schedule",
+          "team": "SK Brann",
+          "status": "club explicitly describes congested schedule across league, Conference League and domestic cup"
+        },
+        {
+          "kind": "lineup_publication",
+          "team": "SK Brann",
+          "announced_release_local": "2026-11-01T13:15:00+01:00",
+          "announced_release_beijing": "2026-11-01T20:15:00+08:00",
+          "status": "announced future publication time, not an obtained confirmed lineup"
+        }
+      ]
+    },
+    {
+      "match_id": "2042415",
+      "club": "Gamba Osaka",
+      "url": "https://www.gamba-osaka.net/gameinfo/index/no/1044/",
+      "facts": [
+        {
+          "kind": "kickoff_verification",
+          "official_local": "2026-11-01T16:00:00+09:00",
+          "official_beijing": "2026-11-01T15:00:00+08:00",
+          "status": "Official club, Sporttery, 500 and FotMob agree; ESPN one hour earlier is rejected for current kickoff"
+        }
+      ]
+    },
+    {
+      "match_id": "2042417",
+      "club": "Perth Glory",
+      "url": "https://perthglory.com.au/news/alm-match-preview-griff-calls-for-front-foot-performance-in-home-clash-with-reds/",
+      "published_date": "2026-10-30",
+      "facts": [
+        {
+          "kind": "kickoff_verification",
+          "official_local": "2026-11-01T16:00:00+08:00",
+          "official_beijing": "2026-11-01T16:00:00+08:00",
+          "status": "Official club, Sporttery, 500 and FotMob agree; ESPN one hour earlier is rejected for current kickoff"
+        },
+        {
+          "kind": "unavailable",
+          "team": "Perth Glory",
+          "players": [
+            "Charbel Shamoon",
+            "Matt Dench",
+            "Henry Hore",
+            "Trent Ostler",
+            "Calem Nieuwenhof",
+            "Brian Kaltak"
+          ],
+          "status": "explicitly listed unavailable in official club preview"
+        },
+        {
+          "kind": "unavailable",
+          "team": "Adelaide United",
+          "players": [
+            "Bart Vriends",
+            "Jake Najdovski",
+            "Dylan Pierias",
+            "Jacob Brazete",
+            "Ryan White",
+            "Mitchell Smith"
+          ],
+          "status": "explicitly listed unavailable in opponent club preview"
+        },
+        {
+          "kind": "recent_match_load",
+          "team": "Adelaide United",
+          "status": "Thursday AFC Champions League Two away match against Lion City Sailors, followed by Sunday trip to Perth"
+        },
+        {
+          "kind": "lineup",
+          "status": "Published squads contain more than 11 players and one omission; not confirmed starting XIs"
+        }
+      ]
+    }
+  ]
+}

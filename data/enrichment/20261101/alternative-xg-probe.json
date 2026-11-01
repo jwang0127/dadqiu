@@ -1,0 +1,15 @@
+[
+  {
+    "name": "fotmob_matches",
+    "ok": false,
+    "error": "curl: (22) The requested URL returned error: 404\r\n"
+  },
+  {
+    "name": "fotmob_data_matches",
+    "ok": true,
+    "keys": [
+      "leagues",
+      "date"
+    ]
+  }
+]

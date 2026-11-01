@@ -1,0 +1,566 @@
+[
+  {
+    "match_id": "2042436",
+    "side": "home",
+    "team_id": "9769",
+    "fixture": {
+      "id": 1000010286,
+      "pageUrl": "/matches/gremio-vs-confianca/6sga1vd#1000010286",
+      "opponent": {
+        "id": 162167,
+        "name": "Confiança",
+        "score": 0
+      },
+      "home": {
+        "id": 9769,
+        "name": "Grêmio",
+        "score": 2
+      },
+      "away": {
+        "id": 162167,
+        "name": "Confiança",
+        "score": 0
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-04-21T22:30:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "2 - 0",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "home",
+    "team_id": "9769",
+    "fixture": {
+      "id": 1000010270,
+      "pageUrl": "/matches/gremio-vs-confianca/6sga1vd#1000010270",
+      "opponent": {
+        "id": 162167,
+        "name": "Confiança",
+        "score": 0
+      },
+      "home": {
+        "id": 162167,
+        "name": "Confiança",
+        "score": 0
+      },
+      "away": {
+        "id": 9769,
+        "name": "Grêmio",
+        "score": 3
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-05-14T22:00:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "0 - 3",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "home",
+    "team_id": "9769",
+    "fixture": {
+      "id": 1000012453,
+      "pageUrl": "/matches/gremio-vs-mirassol/6x2dlf5#1000012453",
+      "opponent": {
+        "id": 163782,
+        "name": "Mirassol",
+        "score": 1
+      },
+      "home": {
+        "id": 163782,
+        "name": "Mirassol",
+        "score": 1
+      },
+      "away": {
+        "id": 9769,
+        "name": "Grêmio",
+        "score": 1
+      },
+      "displayTournament": true,
+      "result": 0,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-08-02T21:00:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "1 - 1",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "home",
+    "team_id": "9769",
+    "fixture": {
+      "id": 1000012445,
+      "pageUrl": "/matches/gremio-vs-mirassol/6x2dlf5#1000012445",
+      "opponent": {
+        "id": 163782,
+        "name": "Mirassol",
+        "score": 0
+      },
+      "home": {
+        "id": 9769,
+        "name": "Grêmio",
+        "score": 1
+      },
+      "away": {
+        "id": 163782,
+        "name": "Mirassol",
+        "score": 0
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-08-05T22:30:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "1 - 0",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "home",
+    "team_id": "9769",
+    "fixture": {
+      "id": 1000019464,
+      "pageUrl": "/matches/internacional-vs-gremio/2tkpx1#1000019464",
+      "opponent": {
+        "id": 8702,
+        "name": "Internacional",
+        "score": 0
+      },
+      "home": {
+        "id": 8702,
+        "name": "Internacional",
+        "score": 0
+      },
+      "away": {
+        "id": 9769,
+        "name": "Grêmio",
+        "score": 0
+      },
+      "displayTournament": true,
+      "result": 0,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-08-27T23:00:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "0 - 0",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "home",
+    "team_id": "9769",
+    "fixture": {
+      "id": 1000019460,
+      "pageUrl": "/matches/internacional-vs-gremio/2tkpx1#1000019460",
+      "opponent": {
+        "id": 8702,
+        "name": "Internacional",
+        "score": 1
+      },
+      "home": {
+        "id": 9769,
+        "name": "Grêmio",
+        "score": 3
+      },
+      "away": {
+        "id": 8702,
+        "name": "Internacional",
+        "score": 1
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-09-03T23:00:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "3 - 1",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "away",
+    "team_id": "10272",
+    "fixture": {
+      "id": 1000010282,
+      "pageUrl": "/matches/atletico-mg-vs-ceara/7nra29o#1000010282",
+      "opponent": {
+        "id": 172341,
+        "name": "Ceará",
+        "score": 1
+      },
+      "home": {
+        "id": 10272,
+        "name": "Atlético-MG",
+        "score": 2
+      },
+      "away": {
+        "id": 172341,
+        "name": "Ceará",
+        "score": 1
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-04-23T22:00:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "2 - 1",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "away",
+    "team_id": "10272",
+    "fixture": {
+      "id": 1000010266,
+      "pageUrl": "/matches/atletico-mg-vs-ceara/7nra29o#1000010266",
+      "opponent": {
+        "id": 172341,
+        "name": "Ceará",
+        "score": 4
+      },
+      "home": {
+        "id": 172341,
+        "name": "Ceará",
+        "score": 4
+      },
+      "away": {
+        "id": 10272,
+        "name": "Atlético-MG",
+        "score": 5
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-05-14T00:30:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "2 - 1",
+        "reason": {
+          "short": "Pen",
+          "shortKey": "penalties_short",
+          "long": "After penalties",
+          "longKey": "afterpenalties"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "away",
+    "team_id": "10272",
+    "fixture": {
+      "id": 1000012455,
+      "pageUrl": "/matches/atletico-mg-vs-juventude/3hods5#1000012455",
+      "opponent": {
+        "id": 10274,
+        "name": "Juventude",
+        "score": 0
+      },
+      "home": {
+        "id": 10272,
+        "name": "Atlético-MG",
+        "score": 0
+      },
+      "away": {
+        "id": 10274,
+        "name": "Juventude",
+        "score": 0
+      },
+      "displayTournament": true,
+      "result": 0,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-08-01T22:30:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "0 - 0",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "away",
+    "team_id": "10272",
+    "fixture": {
+      "id": 1000012447,
+      "pageUrl": "/matches/atletico-mg-vs-juventude/3hods5#1000012447",
+      "opponent": {
+        "id": 10274,
+        "name": "Juventude",
+        "score": 0
+      },
+      "home": {
+        "id": 10274,
+        "name": "Juventude",
+        "score": 0
+      },
+      "away": {
+        "id": 10272,
+        "name": "Atlético-MG",
+        "score": 1
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-08-04T22:30:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "0 - 1",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "away",
+    "team_id": "10272",
+    "fixture": {
+      "id": 1000019461,
+      "pageUrl": "/matches/cruzeiro-vs-atletico-mg/3bpv98#1000019461",
+      "opponent": {
+        "id": 9781,
+        "name": "Cruzeiro",
+        "score": 1
+      },
+      "home": {
+        "id": 9781,
+        "name": "Cruzeiro",
+        "score": 1
+      },
+      "away": {
+        "id": 10272,
+        "name": "Atlético-MG",
+        "score": 1
+      },
+      "displayTournament": true,
+      "result": 0,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-08-26T00:00:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "1 - 1",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  },
+  {
+    "match_id": "2042436",
+    "side": "away",
+    "team_id": "10272",
+    "fixture": {
+      "id": 1000019465,
+      "pageUrl": "/matches/cruzeiro-vs-atletico-mg/3bpv98#1000019465",
+      "opponent": {
+        "id": 9781,
+        "name": "Cruzeiro",
+        "score": 1
+      },
+      "home": {
+        "id": 10272,
+        "name": "Atlético-MG",
+        "score": 2
+      },
+      "away": {
+        "id": 9781,
+        "name": "Cruzeiro",
+        "score": 1
+      },
+      "displayTournament": true,
+      "result": 1,
+      "notStarted": false,
+      "tournament": {
+        "name": "Copa do Brasil",
+        "stage": "",
+        "leagueId": 9067
+      },
+      "status": {
+        "utcTime": "2026-09-02T00:00:00.000Z",
+        "finished": true,
+        "started": true,
+        "cancelled": false,
+        "awarded": false,
+        "scoreStr": "2 - 1",
+        "reason": {
+          "short": "FT",
+          "shortKey": "fulltime_short",
+          "long": "Full-Time",
+          "longKey": "finished"
+        }
+      }
+    },
+    "usage": "research only; 90-minute period must be independently verified"
+  }
+]

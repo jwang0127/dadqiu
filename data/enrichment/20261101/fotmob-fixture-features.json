@@ -1,0 +1,353 @@
+[
+  {
+    "match_id": "2042413",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.3961672217435943,
+        "weighted_xga": 1.5041506875337076,
+        "weighted_goals_for_matched": 1.4647239768386835,
+        "weighted_goals_against_matched": 1.3983360154274624,
+        "shot_quality_rows": 10
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 0.7770268407079358,
+        "weighted_xga": 1.5023005322332037,
+        "weighted_goals_for_matched": 0.7978062507779682,
+        "weighted_goals_against_matched": 1.6676839834273176,
+        "shot_quality_rows": 8
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042414",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.92983670052701,
+        "weighted_xga": 1.6272810515654965,
+        "weighted_goals_for_matched": 1.7405246814219089,
+        "weighted_goals_against_matched": 1.4107063789086511,
+        "shot_quality_rows": 9
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.4989886748054069,
+        "weighted_xga": 1.4076511197416788,
+        "weighted_goals_for_matched": 1.3881812200612778,
+        "weighted_goals_against_matched": 1.1963520158676846,
+        "shot_quality_rows": 10
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042415",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.6879773132676252,
+        "weighted_xga": 1.0856710407010681,
+        "weighted_goals_for_matched": 2.3828563331359973,
+        "weighted_goals_against_matched": 0.9734487447999534,
+        "shot_quality_rows": 8
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.2013552248416288,
+        "weighted_xga": 1.6182445335628977,
+        "weighted_goals_for_matched": 1.1637127567235834,
+        "weighted_goals_against_matched": 1.7764826069061748,
+        "shot_quality_rows": 8
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042416",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 2.0480286043059954,
+        "weighted_xga": 1.1800264896514128,
+        "weighted_goals_for_matched": 2.007876895556888,
+        "weighted_goals_against_matched": 1.0255549314780614,
+        "shot_quality_rows": 6
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.0336899318419672,
+        "weighted_xga": 1.1997422826489237,
+        "weighted_goals_for_matched": 1.0816379888039576,
+        "weighted_goals_against_matched": 0.9338340052485049,
+        "shot_quality_rows": 9
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042417",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 2,
+        "xg_rows": 2,
+        "weighted_xgf": 1.008036170351328,
+        "weighted_xga": 1.658407822037401,
+        "weighted_goals_for_matched": 1.0,
+        "weighted_goals_against_matched": 2.0,
+        "shot_quality_rows": 2
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 1,
+        "xg_rows": 1,
+        "weighted_xgf": 1.25,
+        "weighted_xga": 1.95,
+        "weighted_goals_for_matched": 1.0,
+        "weighted_goals_against_matched": 2.0,
+        "shot_quality_rows": 1
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042418",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 10,
+        "xg_rows": 10,
+        "weighted_xgf": 1.1312032430961865,
+        "weighted_xga": 2.0654319273546684,
+        "weighted_goals_for_matched": 1.1161429668925125,
+        "weighted_goals_against_matched": 2.4149866581394317,
+        "shot_quality_rows": 7
+      },
+      "away": {
+        "own_rows": 10,
+        "matched_rows": 10,
+        "xg_rows": 10,
+        "weighted_xgf": 1.0108818417776722,
+        "weighted_xga": 2.0779037999332814,
+        "weighted_goals_for_matched": 1.2461162995228983,
+        "weighted_goals_against_matched": 2.2430634855929417,
+        "shot_quality_rows": 8
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042421",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.5379797431705369,
+        "weighted_xga": 1.2928807295460385,
+        "weighted_goals_for_matched": 1.0513661612421086,
+        "weighted_goals_against_matched": 0.8936295392702823,
+        "shot_quality_rows": 7
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 2.2796669087644994,
+        "weighted_xga": 0.8205801721502263,
+        "weighted_goals_for_matched": 1.7534205381076158,
+        "weighted_goals_against_matched": 0.5970711878742678,
+        "shot_quality_rows": 7
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042422",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 10,
+        "xg_rows": 10,
+        "weighted_xgf": 1.2132854127683361,
+        "weighted_xga": 1.7907428287429246,
+        "weighted_goals_for_matched": 1.4362034673140307,
+        "weighted_goals_against_matched": 2.157051342629276,
+        "shot_quality_rows": 9
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 10,
+        "xg_rows": 10,
+        "weighted_xgf": 1.917446953671307,
+        "weighted_xga": 0.9497560290402272,
+        "weighted_goals_for_matched": 1.8602171123988873,
+        "weighted_goals_against_matched": 0.9854357045518979,
+        "shot_quality_rows": 9
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042423",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.8550504326908033,
+        "weighted_xga": 1.877540318985632,
+        "weighted_goals_for_matched": 1.5608059437776636,
+        "weighted_goals_against_matched": 1.6704498498245963,
+        "shot_quality_rows": 10
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 3.2500920974580305,
+        "weighted_xga": 1.4285290813140559,
+        "weighted_goals_for_matched": 3.180167255466141,
+        "weighted_goals_against_matched": 1.7853139570927252,
+        "shot_quality_rows": 5
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042427",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 10,
+        "xg_rows": 10,
+        "weighted_xgf": 1.8027248553336406,
+        "weighted_xga": 1.9897794951713463,
+        "weighted_goals_for_matched": 2.350135687577298,
+        "weighted_goals_against_matched": 2.1775079808642537,
+        "shot_quality_rows": 6
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 10,
+        "xg_rows": 10,
+        "weighted_xgf": 2.0256260873703957,
+        "weighted_xga": 1.863444580386539,
+        "weighted_goals_for_matched": 1.800299503710896,
+        "weighted_goals_against_matched": 2.4672376246520047,
+        "shot_quality_rows": 7
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042432",
+    "sides": {
+      "home": {
+        "own_rows": 9,
+        "matched_rows": 9,
+        "xg_rows": 9,
+        "weighted_xgf": 1.1181625251752498,
+        "weighted_xga": 1.7684782581798388,
+        "weighted_goals_for_matched": 1.3520102806877627,
+        "weighted_goals_against_matched": 1.2776692168456403,
+        "shot_quality_rows": 8
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 9,
+        "xg_rows": 9,
+        "weighted_xgf": 0.610983950052384,
+        "weighted_xga": 1.9206377178283265,
+        "weighted_goals_for_matched": 0.7889226846185916,
+        "weighted_goals_against_matched": 2.1295351527839874,
+        "shot_quality_rows": 8
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042436",
+    "sides": {
+      "home": {
+        "own_rows": 3,
+        "matched_rows": 3,
+        "xg_rows": 0,
+        "weighted_xgf": null,
+        "weighted_xga": null,
+        "weighted_goals_for_matched": null,
+        "weighted_goals_against_matched": null,
+        "shot_quality_rows": 0
+      },
+      "away": {
+        "own_rows": 0,
+        "matched_rows": 0,
+        "xg_rows": 0,
+        "weighted_xgf": null,
+        "weighted_xga": null,
+        "weighted_goals_for_matched": null,
+        "weighted_goals_against_matched": null,
+        "shot_quality_rows": 0
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  },
+  {
+    "match_id": "2042437",
+    "sides": {
+      "home": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.6487143492833307,
+        "weighted_xga": 1.6524602454878834,
+        "weighted_goals_for_matched": 1.828588381864966,
+        "weighted_goals_against_matched": 1.598387390465602,
+        "shot_quality_rows": 11
+      },
+      "away": {
+        "own_rows": 12,
+        "matched_rows": 12,
+        "xg_rows": 12,
+        "weighted_xgf": 1.5155170037078547,
+        "weighted_xga": 1.8657644570373384,
+        "weighted_goals_for_matched": 1.9726308719169174,
+        "weighted_goals_against_matched": 1.4308678110835864,
+        "shot_quality_rows": 9
+      }
+    },
+    "provider": "FotMob",
+    "numerical_prediction_changed": false
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "provider_match_id": "1373160",
+    "red_events": [
+      {
+        "side": "away",
+        "clock": "60'",
+        "type": "second_yellow",
+        "player": "金承彬",
+        "on_field_status": "unknown"
+      }
+    ],
+    "technical_statistics_raw": {
+      "射门": [
+        "18",
+        "5"
+      ],
+      "射正": [
+        "4",
+        "2"
+      ],
+      "红牌": [
+        "0",
+        "1"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373161",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "12",
+        "11"
+      ],
+      "射正": [
+        "5",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373163",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "11",
+        "14"
+      ],
+      "射正": [
+        "3",
+        "6"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373168",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "11",
+        "8"
+      ],
+      "射正": [
+        "5",
+        "2"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373172",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "7",
+        "10"
+      ],
+      "射正": [
+        "3",
+        "4"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373173",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "16",
+        "15"
+      ],
+      "射正": [
+        "4",
+        "4"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373174",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "19",
+        "6"
+      ],
+      "射正": [
+        "7",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373179",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "11",
+        "18"
+      ],
+      "射正": [
+        "4",
+        "4"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373183",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "14",
+        "3"
+      ],
+      "射正": [
+        "7",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373184",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "11",
+        "4"
+      ],
+      "射正": [
+        "6",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373186",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "13",
+        "18"
+      ],
+      "射正": [
+        "6",
+        "7"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373191",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "7",
+        "15"
+      ],
+      "射正": [
+        "3",
+        "11"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373192",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "15",
+        "10"
+      ],
+      "射正": [
+        "7",
+        "2"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373193",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "13",
+        "11"
+      ],
+      "射正": [
+        "7",
+        "7"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373194",
+    "red_events": [
+      {
+        "side": "away",
+        "clock": "65'",
+        "type": "red",
+        "player": "俞仁秀",
+        "on_field_status": "unknown"
+      }
+    ],
+    "technical_statistics_raw": {
+      "射门": [
+        "6",
+        "3"
+      ],
+      "射正": [
+        "0",
+        "0"
+      ],
+      "红牌": [
+        "0",
+        "1"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373197",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "11",
+        "6"
+      ],
+      "射正": [
+        "5",
+        "0"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373206",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "11",
+        "10"
+      ],
+      "射正": [
+        "2",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373212",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "10",
+        "0"
+      ],
+      "射正": [
+        "0",
+        "0"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373214",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "9",
+        "8"
+      ],
+      "射正": [
+        "1",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373216",
+    "red_events": [
+      {
+        "side": "away",
+        "clock": "83'",
+        "type": "second_yellow",
+        "player": "胡安·伊比沙",
+        "on_field_status": "unknown"
+      }
+    ],
+    "technical_statistics_raw": {
+      "射门": [
+        "5",
+        "11"
+      ],
+      "射正": [
+        "3",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "1"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373217",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "7",
+        "8"
+      ],
+      "射正": [
+        "4",
+        "4"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373221",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "12",
+        "15"
+      ],
+      "射正": [
+        "5",
+        "4"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373224",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "4",
+        "9"
+      ],
+      "射正": [
+        "2",
+        "5"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373226",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "13",
+        "11"
+      ],
+      "射正": [
+        "9",
+        "5"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373230",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "10",
+        "6"
+      ],
+      "射正": [
+        "7",
+        "1"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373231",
+    "red_events": [
+      {
+        "side": "away",
+        "clock": "3'",
+        "type": "red",
+        "player": "金建熙",
+        "on_field_status": "unknown"
+      }
+    ],
+    "technical_statistics_raw": {
+      "射门": [
+        "13",
+        "5"
+      ],
+      "射正": [
+        "7",
+        "1"
+      ],
+      "红牌": [
+        "0",
+        "1"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373242",
+    "red_events": [
+      {
+        "side": "away",
+        "clock": "31'",
+        "type": "red",
+        "player": "亚戈·卡列洛",
+        "on_field_status": "unknown"
+      }
+    ],
+    "technical_statistics_raw": {
+      "射门": [
+        "12",
+        "6"
+      ],
+      "射正": [
+        "5",
+        "2"
+      ],
+      "红牌": [
+        "0",
+        "1"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1373244",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "8",
+        "10"
+      ],
+      "射正": [
+        "4",
+        "5"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1474002",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "15",
+        "5"
+      ],
+      "射正": [
+        "6",
+        "2"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1474005",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "22",
+        "7"
+      ],
+      "射正": [
+        "6",
+        "2"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1474015",
+    "red_events": [
+      {
+        "side": "away",
+        "clock": "66'",
+        "type": "second_yellow",
+        "player": "亚赞·阿拉伯",
+        "on_field_status": "unknown"
+      }
+    ],
+    "technical_statistics_raw": {
+      "射门": [
+        "13",
+        "13"
+      ],
+      "射正": [
+        "2",
+        "9"
+      ],
+      "红牌": [
+        "0",
+        "1"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1474071",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "15",
+        "8"
+      ],
+      "射正": [
+        "3",
+        "2"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1474073",
+    "red_events": [],
+    "technical_statistics_raw": {
+      "射门": [
+        "11",
+        "3"
+      ],
+      "射正": [
+        "5",
+        "3"
+      ],
+      "红牌": [
+        "0",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  },
+  {
+    "provider_match_id": "1474077",
+    "red_events": [
+      {
+        "side": "home",
+        "clock": "70'",
+        "type": "second_yellow",
+        "player": "鲁斯兰·明加索夫",
+        "on_field_status": "unknown"
+      }
+    ],
+    "technical_statistics_raw": {
+      "射门": [
+        "12",
+        "4"
+      ],
+      "射正": [
+        "0",
+        "3"
+      ],
+      "红牌": [
+        "1",
+        "0"
+      ]
+    },
+    "technical_statistics_verified": false,
+    "warning": "Some historical technical tables contain placeholder zeros; not admitted as shot inputs. No independent on-field/bench validation of red events."
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "collected_at": "2026-11-01T10:58:49.593615+08:00",
+  "fixtures": 25,
+  "team_player_summary_records": 580,
+  "listed_injury_suspension_records": 163,
+  "fixtures_with_injury_list_records": 21,
+  "cross_competition_schedules": 50,
+  "unique_historical_event_matches": 465,
+  "historical_actual_lineups": 463,
+  "red_timeline_verified_matches": 464,
+  "matches_with_on_field_red": 66,
+  "xg_own_team_observations": 279,
+  "fixtures_xg_both_sides": 12,
+  "unique_shot_quality_matches": 240,
+  "pre_red_xg_segments": 23,
+  "predicted_lineup_pages": 25,
+  "confirmed_current_lineups": 0,
+  "korean_historical_pages": 34,
+  "korean_red_event_records": 7,
+  "kickoff_conflicts": [
+    {
+      "match_id": "2042415",
+      "league": "jpn.1",
+      "espn_id": "401877581",
+      "home": "Machida Zelvia",
+      "away": "Gamba Osaka",
+      "kickoff_difference_minutes": -60.0,
+      "kickoff_agrees": false
+    },
+    {
+      "match_id": "2042417",
+      "league": "aus.1",
+      "espn_id": "401892145",
+      "home": "Perth Glory FC",
+      "away": "Adelaide United FC",
+      "kickoff_difference_minutes": -60.0,
+      "kickoff_agrees": false
+    }
+  ],
+  "normalization_errors": [],
+  "no_league_aggregates_in_normalized_data": true,
+  "forecast_probabilities_changed": false,
+  "coverage_caveats": [
+    "xG matches use own club/date/venue/goals; opponent names only cross-validated where ESPN and Understat canonical names agree",
+    "500 expected lineups are not confirmed; historical placeholders excluded",
+    "Sporttery injury lists are not complete club medical bulletins",
+    "Calendar-day gaps are not exact rest hours; cup extra time must be separately verified",
+    "All historical actual XIs and events were collected retrospectively"
+  ]
+}

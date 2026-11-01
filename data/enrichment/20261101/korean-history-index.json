@@ -1,0 +1,522 @@
+[
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373212",
+    "date": "2026-10-24",
+    "home": "蔚山HD",
+    "away": "浦项铁人",
+    "score": [
+      2,
+      2
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373160",
+    "date": "2026-10-17",
+    "home": "蔚山HD",
+    "away": "富川FC",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373193",
+    "date": "2026-10-11",
+    "home": "光州FC",
+    "away": "蔚山HD",
+    "score": [
+      4,
+      3
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373186",
+    "date": "2026-09-19",
+    "home": "安养FC",
+    "away": "蔚山HD",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373206",
+    "date": "2026-09-12",
+    "home": "蔚山HD",
+    "away": "仁川联",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373244",
+    "date": "2026-09-08",
+    "home": "蔚山HD",
+    "away": "FC首尔",
+    "score": [
+      1,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373242",
+    "date": "2026-09-05",
+    "home": "济州SK",
+    "away": "蔚山HD",
+    "score": [
+      0,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373226",
+    "date": "2026-08-29",
+    "home": "蔚山HD",
+    "away": "金泉尚武",
+    "score": [
+      3,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373183",
+    "date": "2026-08-26",
+    "home": "大田市民",
+    "away": "蔚山HD",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "home",
+    "provider_match_id": "1373197",
+    "date": "2026-08-22",
+    "home": "全北现代",
+    "away": "蔚山HD",
+    "score": [
+      1,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1474071",
+    "date": "2026-10-29",
+    "home": "江原FC",
+    "away": "古晋城",
+    "score": [
+      1,
+      0
+    ],
+    "competition": "亚冠联2"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1373163",
+    "date": "2026-10-24",
+    "home": "FC首尔",
+    "away": "江原FC",
+    "score": [
+      1,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1373174",
+    "date": "2026-10-18",
+    "home": "江原FC",
+    "away": "仁川联",
+    "score": [
+      1,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1474073",
+    "date": "2026-10-15",
+    "home": "江原FC",
+    "away": "金边皇冠",
+    "score": [
+      1,
+      2
+    ],
+    "competition": "亚冠联2"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1373184",
+    "date": "2026-10-09",
+    "home": "江原FC",
+    "away": "富川FC",
+    "score": [
+      2,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1373214",
+    "date": "2026-09-27",
+    "home": "江原FC",
+    "away": "仁川联",
+    "score": [
+      0,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1373192",
+    "date": "2026-09-20",
+    "home": "江原FC",
+    "away": "济州SK",
+    "score": [
+      0,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1474077",
+    "date": "2026-09-17",
+    "home": "杰志",
+    "away": "江原FC",
+    "score": [
+      0,
+      0
+    ],
+    "competition": "亚冠联2"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1373221",
+    "date": "2026-09-13",
+    "home": "金泉尚武",
+    "away": "江原FC",
+    "score": [
+      2,
+      2
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042414",
+    "side": "away",
+    "provider_match_id": "1373217",
+    "date": "2026-09-09",
+    "home": "江原FC",
+    "away": "全北现代",
+    "score": [
+      1,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1474015",
+    "date": "2026-10-28",
+    "home": "越电信体工",
+    "away": "FC首尔",
+    "score": [
+      0,
+      5
+    ],
+    "competition": "亚冠联2"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1373163",
+    "date": "2026-10-24",
+    "home": "FC首尔",
+    "away": "江原FC",
+    "score": [
+      1,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1373173",
+    "date": "2026-10-18",
+    "home": "FC首尔",
+    "away": "金泉尚武",
+    "score": [
+      2,
+      2
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1474005",
+    "date": "2026-10-14",
+    "home": "墨尔本胜利",
+    "away": "FC首尔",
+    "score": [
+      3,
+      0
+    ],
+    "competition": "亚冠联2"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1373168",
+    "date": "2026-10-10",
+    "home": "FC首尔",
+    "away": "济州SK",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1373179",
+    "date": "2026-09-20",
+    "home": "浦项铁人",
+    "away": "FC首尔",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1474002",
+    "date": "2026-09-16",
+    "home": "FC首尔",
+    "away": "万隆",
+    "score": [
+      0,
+      1
+    ],
+    "competition": "亚冠联2"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1373191",
+    "date": "2026-09-12",
+    "home": "全北现代",
+    "away": "FC首尔",
+    "score": [
+      1,
+      2
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1373244",
+    "date": "2026-09-08",
+    "home": "蔚山HD",
+    "away": "FC首尔",
+    "score": [
+      1,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "home",
+    "provider_match_id": "1373231",
+    "date": "2026-09-05",
+    "home": "FC首尔",
+    "away": "仁川联",
+    "score": [
+      1,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373194",
+    "date": "2026-10-24",
+    "home": "仁川联",
+    "away": "济州SK",
+    "score": [
+      3,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373174",
+    "date": "2026-10-18",
+    "home": "江原FC",
+    "away": "仁川联",
+    "score": [
+      1,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373230",
+    "date": "2026-10-09",
+    "home": "仁川联",
+    "away": "浦项铁人",
+    "score": [
+      3,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373214",
+    "date": "2026-09-27",
+    "home": "江原FC",
+    "away": "仁川联",
+    "score": [
+      0,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373161",
+    "date": "2026-09-20",
+    "home": "仁川联",
+    "away": "大田市民",
+    "score": [
+      1,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373206",
+    "date": "2026-09-12",
+    "home": "蔚山HD",
+    "away": "仁川联",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373224",
+    "date": "2026-09-08",
+    "home": "仁川联",
+    "away": "富川FC",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373231",
+    "date": "2026-09-05",
+    "home": "FC首尔",
+    "away": "仁川联",
+    "score": [
+      1,
+      0
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373172",
+    "date": "2026-08-30",
+    "home": "仁川联",
+    "away": "全北现代",
+    "score": [
+      1,
+      1
+    ],
+    "competition": "K1联赛"
+  },
+  {
+    "match_id": "2042416",
+    "side": "away",
+    "provider_match_id": "1373216",
+    "date": "2026-08-26",
+    "home": "安养FC",
+    "away": "仁川联",
+    "score": [
+      2,
+      1
+    ],
+    "competition": "K1联赛"
+  }
+]

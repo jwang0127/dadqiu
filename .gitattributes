@@ -1,5 +1,6 @@
 # Preserve source/archive bytes; existing research files retain their EOL policy.
 data/daily/** -text -whitespace
+data/enrichment/** -text -whitespace
 20261031/** -text -whitespace
 20261101/** -text -whitespace
 data/today.json -text whitespace=cr-at-eol

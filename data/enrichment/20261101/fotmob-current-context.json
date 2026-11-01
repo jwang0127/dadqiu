@@ -1,0 +1,1974 @@
+[
+  {
+    "match_id": "2042413",
+    "kickoff_source": "2026-11-01T13:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 22,
+      "windSpeed": 5,
+      "windDirectionCardinal": "SSW",
+      "iconCode": 30,
+      "relativeHumidity": 62,
+      "precipChance": 0,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 34,
+      "description": "Partly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:26Z",
+      "localizedKey": "weather_condition_partly_cloudy",
+      "defaultTitle": "Partly Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [],
+      "away": []
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042414",
+    "kickoff_source": "2026-11-01T13:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 16,
+      "windSpeed": 1,
+      "windDirectionCardinal": "WSW",
+      "iconCode": 26,
+      "relativeHumidity": 50,
+      "precipChance": 11,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 80,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:32Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [],
+      "away": []
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042415",
+    "kickoff_source": "2026-11-01T15:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 19,
+      "windSpeed": 3,
+      "windDirectionCardinal": "SE",
+      "iconCode": 26,
+      "relativeHumidity": 52,
+      "precipChance": 1,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 85,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:26Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [],
+      "away": []
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042416",
+    "kickoff_source": "2026-11-01T15:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 10,
+      "windSpeed": 3,
+      "windDirectionCardinal": "SE",
+      "iconCode": 26,
+      "relativeHumidity": 79,
+      "precipChance": 24,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 99,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:32Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [],
+      "away": []
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042417",
+    "kickoff_source": "2026-11-01T16:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 20,
+      "windSpeed": 6,
+      "windDirectionCardinal": "WSW",
+      "iconCode": 30,
+      "relativeHumidity": 56,
+      "precipChance": 0,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 55,
+      "description": "Partly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-10-31T02:00:23Z",
+      "localizedKey": "weather_condition_partly_cloudy",
+      "defaultTitle": "Partly Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [],
+      "away": []
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042418",
+    "kickoff_source": "2026-11-01T19:15:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 11,
+      "windSpeed": 2,
+      "windDirectionCardinal": "N",
+      "iconCode": 26,
+      "relativeHumidity": 91,
+      "precipChance": 24,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 100,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:19Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 939625,
+          "name": "Filip Krastev",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1179041,
+          "name": "Donat Barany",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1189519,
+          "name": "Luka Reischl",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042419",
+    "kickoff_source": "2026-11-01T19:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 11,
+      "windSpeed": 2,
+      "windDirectionCardinal": "SE",
+      "iconCode": 30,
+      "relativeHumidity": 64,
+      "precipChance": 7,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 54,
+      "description": "Partly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:09Z",
+      "localizedKey": "weather_condition_partly_cloudy",
+      "defaultTitle": "Partly Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1347241,
+          "name": "Jayden Addai",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 793907,
+          "name": "Trevoh Chalobah",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1434889,
+          "name": "Assane Diao",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1624039,
+          "name": "Jesús Rodríguez",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 747926,
+          "name": "Moise Kean",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 992052,
+          "name": "Thierry Correia",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1072710,
+          "name": "Bartol Franjić",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 782703,
+          "name": "Marin Šverko",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1024432,
+          "name": "Andrea Adorante",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042420",
+    "kickoff_source": "2026-11-01T21:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 19,
+      "windSpeed": 1,
+      "windDirectionCardinal": "SSW",
+      "iconCode": 32,
+      "relativeHumidity": 54,
+      "precipChance": 0,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 1,
+      "description": "Sunny",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T01:00:17Z",
+      "localizedKey": "weather_condition_sunny",
+      "defaultTitle": "Sunny"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1118199,
+          "name": "Zaid Abner Romero",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 474673,
+          "name": "Johan Mojica",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1321605,
+          "name": "Mario Martín",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1580704,
+          "name": "Christantus Uche",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 191873,
+          "name": "Juanmi",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1797904,
+          "name": "Miguel Sierra",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 753593,
+          "name": "Marcão",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042421",
+    "kickoff_source": "2026-11-01T21:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 10,
+      "windSpeed": 3,
+      "windDirectionCardinal": "SSW",
+      "iconCode": 26,
+      "relativeHumidity": 74,
+      "precipChance": 3,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 91,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-10-31T01:00:16Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1837419,
+          "name": "Theodor Lundbergh",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 462527,
+          "name": "Stian Gregersen",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1391009,
+          "name": "Noah Åstrand John",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 2076683,
+          "name": "Isaac Assibu",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1390339,
+          "name": "Kenan Busuladžić",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1145717,
+          "name": "Warren Kamanzi",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1624639,
+          "name": "Oscar Sjöstrand",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 174031,
+          "name": "Pontus Jansson",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1208730,
+          "name": "Ibrahima Fofana",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1410095,
+          "name": "Amin Boudri",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1578134,
+          "name": "Oliver Hagen",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042422",
+    "kickoff_source": "2026-11-01T21:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 11,
+      "windSpeed": 2,
+      "windDirectionCardinal": "NNW",
+      "iconCode": 26,
+      "relativeHumidity": 80,
+      "precipChance": 4,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 94,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:19Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [],
+      "away": [
+        {
+          "id": 210822,
+          "name": "Lars Unnerstall",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1209260,
+          "name": "Max Bruns",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1408459,
+          "name": "Stav Lemkin",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1382346,
+          "name": "Daouda Weidmann",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1460786,
+          "name": "Filip Thorvaldsen",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042423",
+    "kickoff_source": "2026-11-01T21:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 8,
+      "windSpeed": 4,
+      "windDirectionCardinal": "NNW",
+      "iconCode": 30,
+      "relativeHumidity": 86,
+      "precipChance": 6,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 50,
+      "description": "Partly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:17Z",
+      "localizedKey": "weather_condition_partly_cloudy",
+      "defaultTitle": "Partly Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1659878,
+          "name": "Nana Boakye",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1381344,
+          "name": "Kjartan Kjartansson",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 937838,
+          "name": "Sakarias Opsahl",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 310785,
+          "name": "Sondre Tronstad",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 940963,
+          "name": "Ulrik Mathisen",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1281067,
+          "name": "Sivert Hansen",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 945616,
+          "name": "Mads Kikkenborg",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 690289,
+          "name": "Halldor Stenevik",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 457164,
+          "name": "Vebjørn Hoff",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 375712,
+          "name": "Eirik Hestad",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1680293,
+          "name": "Seydina Diop",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042424",
+    "kickoff_source": "2026-11-01T22:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 13,
+      "windSpeed": 2,
+      "windDirectionCardinal": "E",
+      "iconCode": 12,
+      "relativeHumidity": 69,
+      "precipChance": 94,
+      "precipitation": 1.28,
+      "snow": 0,
+      "cloudCover": 100,
+      "description": "Rain",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:09Z",
+      "localizedKey": "weather_condition_rain",
+      "defaultTitle": "Rain"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 617044,
+          "name": "Florian Grillitsch",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1642351,
+          "name": "Niccolò Fortini",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 115591,
+          "name": "Ricardo Rodríguez",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 577911,
+          "name": "Rolando Mandragora",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042425",
+    "kickoff_source": "2026-11-01T22:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 15,
+      "windSpeed": 5,
+      "windDirectionCardinal": "NNE",
+      "iconCode": 28,
+      "relativeHumidity": 51,
+      "precipChance": 17,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 64,
+      "description": "Mostly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:09Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1020963,
+          "name": "Nicolò Rovella",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 478447,
+          "name": "Adam Marušić",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 665188,
+          "name": "Albert Guðmundsson",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1021302,
+          "name": "Mattia Felici",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1668219,
+          "name": "Riyad Idrissi",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042426",
+    "kickoff_source": "2026-11-01T22:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 8,
+      "windSpeed": 2,
+      "windDirectionCardinal": "E",
+      "iconCode": 28,
+      "relativeHumidity": 77,
+      "precipChance": 4,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 79,
+      "description": "Mostly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T00:00:19Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 447959,
+          "name": "Robert Skov",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1047670,
+          "name": "Andrej Ilić",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1796861,
+          "name": "Andrik Markgraf",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 767800,
+          "name": "Felix Uduokhai",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 907495,
+          "name": "Stanley N'Soki",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 574642,
+          "name": "Ellyes Skhiri",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1199391,
+          "name": "Rav van den Berg",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 682385,
+          "name": "Timo Hübers",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 916092,
+          "name": "Imad Rondić",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 772193,
+          "name": "Ragnar Ache",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 885085,
+          "name": "Thijs Dallinga",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042427",
+    "kickoff_source": "2026-11-01T23:45:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 11,
+      "windSpeed": 1,
+      "windDirectionCardinal": "WNW",
+      "iconCode": 26,
+      "relativeHumidity": 89,
+      "precipChance": 12,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 89,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T01:00:19Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1720296,
+          "name": "Elvis van der Laan",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1457824,
+          "name": "Malcolm Jeng",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1575747,
+          "name": "Tyrique Mercera",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1227814,
+          "name": "Shunsuke Mito",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042428",
+    "kickoff_source": "2026-11-02T00:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 11,
+      "windSpeed": 3,
+      "windDirectionCardinal": "NNW",
+      "iconCode": 26,
+      "relativeHumidity": 85,
+      "precipChance": 7,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 91,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T00:00:11Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1553105,
+          "name": "Víctor Muñoz",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 846005,
+          "name": "Dominik Szoboszlai",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1113690,
+          "name": "Conor Bradley",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1609209,
+          "name": "Giovanni Leoni",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 966018,
+          "name": "Jeremie Frimpong",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1197030,
+          "name": "Hugo Ekitiké",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1157237,
+          "name": "Christos Tzolis",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 955406,
+          "name": "William Saliba",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 961995,
+          "name": "Bukayo Saka",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1635773,
+          "name": "Max Dowman",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042429",
+    "kickoff_source": "2026-11-02T00:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 10,
+      "windSpeed": 2,
+      "windDirectionCardinal": "NE",
+      "iconCode": 28,
+      "relativeHumidity": 63,
+      "precipChance": 1,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 73,
+      "description": "Mostly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:08Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1083717,
+          "name": "Jessic Ngankam",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1066260,
+          "name": "Mario Vušković",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1188890,
+          "name": "Nicolai Remberg",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1018564,
+          "name": "Nicolás Capaldo",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1283407,
+          "name": "Bilal Nadir",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1025462,
+          "name": "Fábio Vieira",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 266527,
+          "name": "Yussuf Poulsen",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042430",
+    "kickoff_source": "2026-11-02T01:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 15,
+      "windSpeed": 2,
+      "windDirectionCardinal": "N",
+      "iconCode": 26,
+      "relativeHumidity": 79,
+      "precipChance": 11,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 90,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:09Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 1036182,
+          "name": "Ivan Ilić",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1206806,
+          "name": "Kialonda Gaspar",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 664587,
+          "name": "Lassana Coulibaly",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1395728,
+          "name": "Medon Berisha",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1039403,
+          "name": "Santiago Pierotti",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 883824,
+          "name": "Willem Geubbels",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1231904,
+          "name": "Elias Havel",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1707510,
+          "name": "Lorenzo Venturino",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042431",
+    "kickoff_source": "2026-11-02T01:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 20,
+      "windSpeed": 4,
+      "windDirectionCardinal": "SSW",
+      "iconCode": 32,
+      "relativeHumidity": 68,
+      "precipChance": 2,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 0,
+      "description": "Sunny",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T00:00:28Z",
+      "localizedKey": "weather_condition_sunny",
+      "defaultTitle": "Sunny"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 291635,
+          "name": "Pedro Bigas",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1392232,
+          "name": "Marc Aguado",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1348497,
+          "name": "Kayne van Oevelen",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 896402,
+          "name": "José Copete",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1600732,
+          "name": "David Otorbi",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 963964,
+          "name": "Harvey Elliott",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1284434,
+          "name": "Diego López",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 673937,
+          "name": "Sergi Canós",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042432",
+    "kickoff_source": "2026-11-02T02:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 16,
+      "windSpeed": 2,
+      "windDirectionCardinal": "ENE",
+      "iconCode": 31,
+      "relativeHumidity": 35,
+      "precipChance": 0,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 1,
+      "description": "Clear",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T00:00:39Z",
+      "localizedKey": "weather_condition_clear",
+      "defaultTitle": "Clear"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [],
+      "away": [
+        {
+          "id": 1021336,
+          "name": "Brandon Aguilera",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 943059,
+          "name": "Cezary Miszta",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1118906,
+          "name": "Nelson Abbey",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042433",
+    "kickoff_source": "2026-11-02T03:45:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 8,
+      "windSpeed": 2,
+      "windDirectionCardinal": "NW",
+      "iconCode": 31,
+      "relativeHumidity": 76,
+      "precipChance": 5,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 0,
+      "description": "Clear",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:09Z",
+      "localizedKey": "weather_condition_clear",
+      "defaultTitle": "Clear"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 760722,
+          "name": "Kamil Grabara",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 980793,
+          "name": "Khéphren Thuram-Ulien",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 624166,
+          "name": "Manuel Locatelli",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 867225,
+          "name": "Zeki Çelik",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 841672,
+          "name": "Nicolás González",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1185336,
+          "name": "Francisco Conceição",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1412132,
+          "name": "Kenan Yıldız",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 129745,
+          "name": "Massimiliano Allegri",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 955376,
+          "name": "Benoît Badiashile",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 823018,
+          "name": "Alessandro Buongiorno",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1355552,
+          "name": "Alisson Santos",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1403328,
+          "name": "Costantino Favasuli",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 793066,
+          "name": "David Neres",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 215242,
+          "name": "Leonardo Spinazzola",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 308517,
+          "name": "Stanislav Lobotka",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042434",
+    "kickoff_source": "2026-11-02T03:45:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 13,
+      "windSpeed": 2,
+      "windDirectionCardinal": "NW",
+      "iconCode": 26,
+      "relativeHumidity": 74,
+      "precipChance": 6,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 96,
+      "description": "Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:16Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 847629,
+          "name": "Derek Cornelius",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1640973,
+          "name": "Rafik Messali",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042435",
+    "kickoff_source": "2026-11-02T04:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 12,
+      "windSpeed": 1,
+      "windDirectionCardinal": "NNE",
+      "iconCode": 27,
+      "relativeHumidity": 90,
+      "precipChance": 7,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 76,
+      "description": "Mostly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T02:00:18Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "predicted",
+    "lineup_source": "enetpulse",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 711231,
+          "name": "Gorka Guruzeta",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1425770,
+          "name": "Unai Eguiluz",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 282462,
+          "name": "Iñigo Ruiz de Galarreta",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 636570,
+          "name": "Álvaro Odriozola",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1697334,
+          "name": "Luken Beitia",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1175610,
+          "name": "Arsen Zakharyan",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042436",
+    "kickoff_source": "2026-11-02T05:30:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 25,
+      "windSpeed": 6,
+      "windDirectionCardinal": "ESE",
+      "iconCode": 28,
+      "relativeHumidity": 67,
+      "precipChance": 2,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 60,
+      "description": "Mostly Cloudy",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-10-31T22:00:24Z",
+      "localizedKey": "weather_condition_cloudy",
+      "defaultTitle": "Cloudy"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 571461,
+          "name": "Cristian Pavón",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1636443,
+          "name": "Diego Caito",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 570432,
+          "name": "Danilo",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1087773,
+          "name": "Juan Nardoni",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 785716,
+          "name": "Jovane Cabral",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1075046,
+          "name": "Reinier",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1804861,
+          "name": "Vitão",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 834605,
+          "name": "Tomás Cuello",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1132940,
+          "name": "Thiago Borbas",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 322049,
+          "name": "Fred",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 639061,
+          "name": "Mateo Cassierra",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 268171,
+          "name": "Everson",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 905494,
+          "name": "Ruan",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  },
+  {
+    "match_id": "2042437",
+    "kickoff_source": "2026-11-02T08:00:00+08:00",
+    "kickoff_agrees": true,
+    "weather_forecast": {
+      "temperature": 7,
+      "windSpeed": 2,
+      "windDirectionCardinal": "WSW",
+      "iconCode": 31,
+      "relativeHumidity": 66,
+      "precipChance": 1,
+      "precipitation": 0,
+      "snow": 0,
+      "cloudCover": 0,
+      "description": "Clear",
+      "apiUsed": "forecast",
+      "lastUpdated": "2026-11-01T00:00:41Z",
+      "localizedKey": "weather_condition_clear",
+      "defaultTitle": "Clear"
+    },
+    "wind_speed_unit": "not independently verified; no numeric effect",
+    "lineup_type": "lastStarting11",
+    "lineup_source": "lastStartingLineups",
+    "club_confirmed_xi": false,
+    "unavailable": {
+      "home": [
+        {
+          "id": 955195,
+          "name": "Alhassan Yusuf",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 751649,
+          "name": "Jack Harrison",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1032040,
+          "name": "Leonardo Campana",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ],
+      "away": [
+        {
+          "id": 1829065,
+          "name": "Fricio Caicedo",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1662026,
+          "name": "Mateo Silvetti",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        },
+        {
+          "id": 1330616,
+          "name": "Tadeo Allende",
+          "injury": null,
+          "expectedReturn": null,
+          "type": null,
+          "expectedReturnDate": null
+        }
+      ]
+    },
+    "team_match_duration_not_inferred_from_player_flags": true
+  }
+]

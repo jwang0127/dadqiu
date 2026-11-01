@@ -1,0 +1,2961 @@
+[
+  {
+    "match_id": "2042413",
+    "number": "周日001",
+    "home": "长崎航海",
+    "away": "东京绿茵",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.3961672217435943,
+        "weighted_xga": 1.5041506875337076,
+        "weighted_gf_matched": 1.4647239768386835,
+        "weighted_ga_matched": 1.3983360154274624,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 7,
+        "recent_matches": [
+          {
+            "date": "2026-10-25",
+            "competition": "日职",
+            "opponent": "浦和红钻",
+            "source_match_id": "2531752",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-21",
+            "competition": "日职",
+            "opponent": "广岛三箭",
+            "source_match_id": "2531754",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "日职",
+            "opponent": "鹿岛鹿角",
+            "source_match_id": "2531773",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "日职",
+            "opponent": "千叶市原",
+            "source_match_id": "2531781",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-07",
+            "competition": "日天皇杯",
+            "opponent": "清水鼓动",
+            "source_match_id": "2632403",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 0.7770268407079358,
+        "weighted_xga": 1.5023005322332037,
+        "weighted_gf_matched": 0.7978062507779682,
+        "weighted_ga_matched": 1.6676839834273176,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 8,
+        "recent_matches": [
+          {
+            "date": "2026-10-24",
+            "competition": "日职",
+            "opponent": "福冈黄蜂",
+            "source_match_id": "2531750",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-21",
+            "competition": "日职",
+            "opponent": "横滨水手",
+            "source_match_id": "2531760",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "日职",
+            "opponent": "东京FC",
+            "source_match_id": "2531769",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "日职",
+            "opponent": "广岛三箭",
+            "source_match_id": "2531778",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-07",
+            "competition": "日天皇杯",
+            "opponent": "鸟取希望",
+            "source_match_id": "2632308",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042414",
+    "number": "周日002",
+    "home": "蔚山现代",
+    "away": "江原FC",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.92983670052701,
+        "weighted_xga": 1.6272810515654965,
+        "weighted_gf_matched": 1.7405246814219089,
+        "weighted_ga_matched": 1.4107063789086511,
+        "listed_injury_records": 2,
+        "rest_calendar_days": 8,
+        "recent_matches": [
+          {
+            "date": "2026-10-24",
+            "competition": "韩职",
+            "opponent": "浦项制铁",
+            "source_match_id": "2485156",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "韩职",
+            "opponent": "富川FC",
+            "source_match_id": "2485161",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "韩职",
+            "opponent": "光州FC",
+            "source_match_id": "2485163",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "韩职",
+            "opponent": "安养FC",
+            "source_match_id": "2485173",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-12",
+            "competition": "韩职",
+            "opponent": "仁川联",
+            "source_match_id": "2485179",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.4989886748054069,
+        "weighted_xga": 1.4076511197416788,
+        "weighted_gf_matched": 1.3881812200612778,
+        "weighted_ga_matched": 1.1963520158676846,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "亚冠乙",
+            "opponent": "Kuching FA",
+            "source_match_id": "2626526",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "韩职",
+            "opponent": "首尔FC",
+            "source_match_id": "2485151",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "韩职",
+            "opponent": "仁川联",
+            "source_match_id": "2485158",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "亚冠乙",
+            "opponent": "Crown",
+            "source_match_id": "2626541",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-09",
+            "competition": "韩职",
+            "opponent": "富川FC",
+            "source_match_id": "2485167",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "阶段：Championship Round",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042415",
+    "number": "周日003",
+    "home": "町田泽维亚",
+    "away": "大阪钢巴",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.6879773132676252,
+        "weighted_xga": 1.0856710407010681,
+        "weighted_gf_matched": 2.3828563331359973,
+        "weighted_ga_matched": 0.9734487447999534,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "亚冠乙",
+            "opponent": "上海申花",
+            "source_match_id": "2626524",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "日职",
+            "opponent": "神户胜利",
+            "source_match_id": "2531745",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-21",
+            "competition": "日职",
+            "opponent": "清水鼓动",
+            "source_match_id": "2531759",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "日职",
+            "opponent": "福冈黄蜂",
+            "source_match_id": "2531768",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "亚冠乙",
+            "opponent": "淡宾尼士",
+            "source_match_id": "2626538",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.2013552248416288,
+        "weighted_xga": 1.6182445335628977,
+        "weighted_gf_matched": 1.1637127567235834,
+        "weighted_ga_matched": 1.7764826069061748,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "亚冠精英",
+            "opponent": "布里兰",
+            "source_match_id": "2626221",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "日职",
+            "opponent": "京都",
+            "source_match_id": "2531747",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-21",
+            "competition": "日职",
+            "opponent": "福冈黄蜂",
+            "source_match_id": "2531755",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "日职",
+            "opponent": "清水鼓动",
+            "source_match_id": "2531767",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-13",
+            "competition": "亚冠精英",
+            "opponent": "纽喷气机",
+            "source_match_id": "2626283",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "开球15:00已由大阪钢巴官网核实；不采用ESPN较早一小时的时间",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042416",
+    "number": "周日004",
+    "home": "首尔FC",
+    "away": "仁川联",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 2.0480286043059954,
+        "weighted_xga": 1.1800264896514128,
+        "weighted_gf_matched": 2.007876895556888,
+        "weighted_ga_matched": 1.0255549314780614,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "亚冠乙",
+            "opponent": "军用电信",
+            "source_match_id": "2626534",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "韩职",
+            "opponent": "江原FC",
+            "source_match_id": "2485151",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "韩职",
+            "opponent": "金泉尚武",
+            "source_match_id": "2485162",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-14",
+            "competition": "亚冠乙",
+            "opponent": "墨胜利",
+            "source_match_id": "2626549",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-10",
+            "competition": "韩职",
+            "opponent": "济州SK",
+            "source_match_id": "2485165",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.0336899318419672,
+        "weighted_xga": 1.1997422826489237,
+        "weighted_gf_matched": 1.0816379888039576,
+        "weighted_ga_matched": 0.9338340052485049,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 8,
+        "recent_matches": [
+          {
+            "date": "2026-10-24",
+            "competition": "韩职",
+            "opponent": "济州SK",
+            "source_match_id": "2485152",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "韩职",
+            "opponent": "江原FC",
+            "source_match_id": "2485158",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-09",
+            "competition": "韩职",
+            "opponent": "浦项制铁",
+            "source_match_id": "2485166",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-27",
+            "competition": "韩职",
+            "opponent": "江原FC",
+            "source_match_id": "2485220",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-20",
+            "competition": "韩职",
+            "opponent": "大田市民",
+            "source_match_id": "2485170",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "阶段：Championship Round",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042417",
+    "number": "周日005",
+    "home": "珀斯光荣",
+    "away": "阿德莱德联",
+    "both_sides_5plus_xg": false,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 2,
+        "selected_rows": 12,
+        "weighted_xgf": 1.008036170351328,
+        "weighted_xga": 1.658407822037401,
+        "weighted_gf_matched": 1.0,
+        "weighted_ga_matched": 2.0,
+        "listed_injury_records": 5,
+        "rest_calendar_days": 9,
+        "recent_matches": [
+          {
+            "date": "2026-10-23",
+            "competition": "澳超",
+            "opponent": "布里斯班",
+            "source_match_id": "2584448",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "澳超",
+            "opponent": "麦克阿瑟",
+            "source_match_id": "2584452",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "阿德莱德",
+            "source_match_id": "2635919",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-27",
+            "competition": "俱乐部赛",
+            "opponent": "阿德莱德",
+            "source_match_id": "2635918",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-07-21",
+            "competition": "澳大利亚杯",
+            "opponent": "Lions",
+            "source_match_id": "2537256",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 1,
+        "selected_rows": 12,
+        "weighted_xgf": 1.25,
+        "weighted_xga": 1.95,
+        "weighted_gf_matched": 1.0,
+        "weighted_ga_matched": 2.0,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "亚冠乙",
+            "opponent": "狮城水手",
+            "source_match_id": "2626528",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "澳超",
+            "opponent": "悉尼FC",
+            "source_match_id": "2584443",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "亚冠乙",
+            "opponent": "巴吞联",
+            "source_match_id": "2626540",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "珀斯",
+            "source_match_id": "2635919",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-27",
+            "competition": "俱乐部赛",
+            "opponent": "珀斯",
+            "source_match_id": "2635918",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "xG仅主2客1场；两队官网清单各6人不可用；开球16:00已由俱乐部核实",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042418",
+    "number": "周日006",
+    "home": "兹沃勒",
+    "away": "海牙",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 10,
+        "selected_rows": 12,
+        "weighted_xgf": 1.1312032430961865,
+        "weighted_xga": 2.0654319273546684,
+        "weighted_gf_matched": 1.1161429668925125,
+        "weighted_ga_matched": 2.4149866581394317,
+        "listed_injury_records": 3,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "荷兰杯",
+            "opponent": "奥斯",
+            "source_match_id": "2639268",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "荷甲",
+            "opponent": "乌德勒支",
+            "source_match_id": "2528221",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "荷甲",
+            "opponent": "前进之鹰",
+            "source_match_id": "2528233",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "荷甲",
+            "opponent": "坎布尔",
+            "source_match_id": "2528245",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "荷甲",
+            "opponent": "格罗宁根",
+            "source_match_id": "2528273",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 10,
+        "selected_rows": 10,
+        "weighted_xgf": 1.0108818417776722,
+        "weighted_xga": 2.0779037999332814,
+        "weighted_gf_matched": 1.2461162995228983,
+        "weighted_ga_matched": 2.2430634855929417,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "荷兰杯",
+            "opponent": "精英31",
+            "source_match_id": "2639258",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "荷甲",
+            "opponent": "海伦芬",
+            "source_match_id": "2528218",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "荷甲",
+            "opponent": "埃因霍温",
+            "source_match_id": "2528238",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "荷甲",
+            "opponent": "特尔斯达",
+            "source_match_id": "2528244",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "荷甲",
+            "opponent": "坎布尔",
+            "source_match_id": "2528274",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042419",
+    "number": "周日007",
+    "home": "科莫",
+    "away": "威尼斯",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 2.3618231531516902,
+        "weighted_xga": 1.2668103668590511,
+        "weighted_gf_matched": 1.7561926020896061,
+        "weighted_ga_matched": 0.6460714996826538,
+        "listed_injury_records": 7,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "意甲",
+            "opponent": "都灵",
+            "source_match_id": "2527152",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "意甲",
+            "opponent": "萨索洛",
+            "source_match_id": "2527168",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-22",
+            "competition": "欧冠",
+            "opponent": "曼联",
+            "source_match_id": "2633767",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "意甲",
+            "opponent": "佛罗伦萨",
+            "source_match_id": "2527179",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "欧冠",
+            "opponent": "费耶诺德",
+            "source_match_id": "2633785",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 9,
+        "selected_rows": 9,
+        "weighted_xgf": 1.7582951668438747,
+        "weighted_xga": 2.243332257679576,
+        "weighted_gf_matched": 0.6760246921144835,
+        "weighted_ga_matched": 2.1132582149321992,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "意甲",
+            "opponent": "国际米兰",
+            "source_match_id": "2527151",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "意甲",
+            "opponent": "热那亚",
+            "source_match_id": "2527167",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "意甲",
+            "opponent": "那不勒斯",
+            "source_match_id": "2527171",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-13",
+            "competition": "意甲",
+            "opponent": "亚特兰大",
+            "source_match_id": "2527187",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-20",
+            "competition": "意甲",
+            "opponent": "拉齐奥",
+            "source_match_id": "2527188",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042420",
+    "number": "周日008",
+    "home": "赫塔费",
+    "away": "塞维利亚",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 0.796728722604739,
+        "weighted_xga": 1.4689346097796672,
+        "weighted_gf_matched": 0.6645246949099723,
+        "weighted_ga_matched": 1.1356755814759802,
+        "listed_injury_records": 5,
+        "rest_calendar_days": 2,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "西国王杯",
+            "opponent": "Lebrijana",
+            "source_match_id": "2641049",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "西甲",
+            "opponent": "毕尔巴鄂",
+            "source_match_id": "2549505",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-23",
+            "competition": "欧协联",
+            "opponent": "卢加诺",
+            "source_match_id": "2634196",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-20",
+            "competition": "西甲",
+            "opponent": "巴列卡诺",
+            "source_match_id": "2549512",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-16",
+            "competition": "欧协联",
+            "opponent": "克拉约瓦",
+            "source_match_id": "2634211",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.2599923181384147,
+        "weighted_xga": 1.5450540548547438,
+        "weighted_gf_matched": 1.4790684478176366,
+        "weighted_ga_matched": 1.6408110722585674,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 2,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "西国王杯",
+            "opponent": "Sporting Hortaleza",
+            "source_match_id": "2642236",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-27",
+            "competition": "西甲",
+            "opponent": "奥萨苏纳",
+            "source_match_id": "2549499",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-19",
+            "competition": "西甲",
+            "opponent": "皇马",
+            "source_match_id": "2549509",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-13",
+            "competition": "西甲",
+            "opponent": "莱万特",
+            "source_match_id": "2549521",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "维拉",
+            "source_match_id": "2640152",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042421",
+    "number": "周日009",
+    "home": "马尔默",
+    "away": "哈马比",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.5379797431705369,
+        "weighted_xga": 1.2928807295460385,
+        "weighted_gf_matched": 1.0513661612421086,
+        "weighted_ga_matched": 0.8936295392702823,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "瑞超",
+            "opponent": "哈尔姆斯",
+            "source_match_id": "2471823",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "瑞超",
+            "opponent": "埃夫斯堡",
+            "source_match_id": "2471834",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "瑞超",
+            "opponent": "赫根",
+            "source_match_id": "2471844",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-13",
+            "competition": "瑞超",
+            "opponent": "卡尔马",
+            "source_match_id": "2471848",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "北西兰",
+            "source_match_id": "2638957",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 2.2796669087644994,
+        "weighted_xga": 0.8205801721502263,
+        "weighted_gf_matched": 1.7534205381076158,
+        "weighted_ga_matched": 0.5970711878742678,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 2,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "瑞超",
+            "opponent": "天狼星",
+            "source_match_id": "2471829",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "瑞超",
+            "opponent": "米亚尔比",
+            "source_match_id": "2471835",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "瑞超",
+            "opponent": "哈尔姆斯",
+            "source_match_id": "2471839",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "瑞超",
+            "opponent": "佐加顿斯",
+            "source_match_id": "2471853",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "韦斯特罗",
+            "source_match_id": "2638961",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042422",
+    "number": "周日010",
+    "home": "SBV精英",
+    "away": "特温特",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 10,
+        "selected_rows": 12,
+        "weighted_xgf": 1.2132854127683361,
+        "weighted_xga": 1.7907428287429246,
+        "weighted_gf_matched": 1.4362034673140307,
+        "weighted_ga_matched": 2.157051342629276,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "荷兰杯",
+            "opponent": "马斯特里",
+            "source_match_id": "2639269",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "荷甲",
+            "opponent": "福图纳",
+            "source_match_id": "2528217",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "荷甲",
+            "opponent": "海伦芬",
+            "source_match_id": "2528242",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "荷甲",
+            "opponent": "格罗宁根",
+            "source_match_id": "2528243",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-20",
+            "competition": "荷甲",
+            "opponent": "阿贾克斯",
+            "source_match_id": "2528272",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 10,
+        "selected_rows": 12,
+        "weighted_xgf": 1.917446953671307,
+        "weighted_xga": 0.9497560290402272,
+        "weighted_gf_matched": 1.8602171123988873,
+        "weighted_ga_matched": 0.9854357045518979,
+        "listed_injury_records": 7,
+        "rest_calendar_days": 6,
+        "recent_matches": [
+          {
+            "date": "2026-10-26",
+            "competition": "荷甲",
+            "opponent": "阿尔克马",
+            "source_match_id": "2528213",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-23",
+            "competition": "欧协联",
+            "opponent": "红色小鬼",
+            "source_match_id": "2634186",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-19",
+            "competition": "荷甲",
+            "opponent": "乌德勒支",
+            "source_match_id": "2528232",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-16",
+            "competition": "欧协联",
+            "opponent": "图恩",
+            "source_match_id": "2634207",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "荷甲",
+            "opponent": "福图纳",
+            "source_match_id": "2528247",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042423",
+    "number": "周日011",
+    "home": "布兰",
+    "away": "莫尔德",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.8550504326908033,
+        "weighted_xga": 1.877540318985632,
+        "weighted_gf_matched": 1.5608059437776636,
+        "weighted_ga_matched": 1.6704498498245963,
+        "listed_injury_records": 2,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "挪威杯",
+            "opponent": "Grorud",
+            "source_match_id": "2639022",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-26",
+            "competition": "挪超",
+            "opponent": "利勒斯特",
+            "source_match_id": "2473334",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-23",
+            "competition": "欧协联",
+            "opponent": "Kauno Žalgiris",
+            "source_match_id": "2634197",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "挪超",
+            "opponent": "瓦勒伦加",
+            "source_match_id": "2473237",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-16",
+            "competition": "欧协联",
+            "opponent": "红色小鬼",
+            "source_match_id": "2634203",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 3.2500920974580305,
+        "weighted_xga": 1.4285290813140559,
+        "weighted_gf_matched": 3.180167255466141,
+        "weighted_ga_matched": 1.7853139570927252,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "挪威杯",
+            "opponent": "斯特罗姆",
+            "source_match_id": "2638034",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-26",
+            "competition": "挪超",
+            "opponent": "腓特烈",
+            "source_match_id": "2473333",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "挪超",
+            "opponent": "斯达",
+            "source_match_id": "2473242",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-12",
+            "competition": "挪超",
+            "opponent": "利勒斯特",
+            "source_match_id": "2473248",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-04",
+            "competition": "俱乐部赛",
+            "opponent": "克里斯蒂",
+            "source_match_id": "2638906",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "两队周中杯赛；布兰官网另列多名伤病球员，门户清单不完整",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042424",
+    "number": "周日012",
+    "home": "弗洛西诺内",
+    "away": "都灵",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 9,
+        "selected_rows": 9,
+        "weighted_xgf": 2.1579699056001154,
+        "weighted_xga": 2.3536256700520637,
+        "weighted_gf_matched": 2.681983207929574,
+        "weighted_ga_matched": 1.4727247733396713,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 2,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "意甲",
+            "opponent": "莱切",
+            "source_match_id": "2527159",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "意甲",
+            "opponent": "亚特兰大",
+            "source_match_id": "2527170",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "意甲",
+            "opponent": "萨索洛",
+            "source_match_id": "2527178",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "意甲",
+            "opponent": "那不勒斯",
+            "source_match_id": "2527182",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-02",
+            "competition": "俱乐部赛",
+            "opponent": "贝内文托",
+            "source_match_id": "2640139",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.3268627525975414,
+        "weighted_xga": 1.4550972018218915,
+        "weighted_gf_matched": 1.6366070325234794,
+        "weighted_ga_matched": 1.4333467093838765,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "意甲",
+            "opponent": "科莫",
+            "source_match_id": "2527152",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "意甲",
+            "opponent": "蒙扎",
+            "source_match_id": "2527162",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-20",
+            "competition": "意甲",
+            "opponent": "帕尔马",
+            "source_match_id": "2527174",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-13",
+            "competition": "意甲",
+            "opponent": "乌迪内斯",
+            "source_match_id": "2527181",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "意甲",
+            "opponent": "博洛尼亚",
+            "source_match_id": "2527197",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042425",
+    "number": "周日013",
+    "home": "拉齐奥",
+    "away": "卡利亚里",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.8130222241460494,
+        "weighted_xga": 1.328179881571157,
+        "weighted_gf_matched": 2.093049746975999,
+        "weighted_ga_matched": 1.0754198917729465,
+        "listed_injury_records": 3,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "意甲",
+            "opponent": "萨索洛",
+            "source_match_id": "2527153",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "意甲",
+            "opponent": "帕尔马",
+            "source_match_id": "2527165",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-19",
+            "competition": "意甲",
+            "opponent": "尤文图斯",
+            "source_match_id": "2527177",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "意甲",
+            "opponent": "蒙扎",
+            "source_match_id": "2527184",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "斯塔比亚",
+            "source_match_id": "2639500",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.6349961359761118,
+        "weighted_xga": 2.0489159950366296,
+        "weighted_gf_matched": 1.073541735284668,
+        "weighted_ga_matched": 1.6320533057766924,
+        "listed_injury_records": 3,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "意甲",
+            "opponent": "罗马",
+            "source_match_id": "2527154",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "意甲",
+            "opponent": "博洛尼亚",
+            "source_match_id": "2527169",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-20",
+            "competition": "意甲",
+            "opponent": "蒙扎",
+            "source_match_id": "2527175",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-12",
+            "competition": "意甲",
+            "opponent": "尤文图斯",
+            "source_match_id": "2526870",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "意甲",
+            "opponent": "乌迪内斯",
+            "source_match_id": "2527189",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042426",
+    "number": "周日014",
+    "home": "柏林联合",
+    "away": "科隆",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.4451211000238116,
+        "weighted_xga": 1.8398298945778568,
+        "weighted_gf_matched": 1.3498615422381697,
+        "weighted_ga_matched": 1.89040403246927,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "德国杯",
+            "opponent": "科隆",
+            "source_match_id": "2635775",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "德甲",
+            "opponent": "奥格斯堡",
+            "source_match_id": "2553981",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "德甲",
+            "opponent": "多特蒙德",
+            "source_match_id": "2553937",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-10",
+            "competition": "德甲",
+            "opponent": "埃沃斯堡",
+            "source_match_id": "2553943",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-27",
+            "competition": "俱乐部赛",
+            "opponent": "里耶卡",
+            "source_match_id": "2638949",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.7500338031440659,
+        "weighted_xga": 1.8452785977766009,
+        "weighted_gf_matched": 1.0487425505128638,
+        "weighted_ga_matched": 2.0266539247023543,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "德国杯",
+            "opponent": "柏林联合",
+            "source_match_id": "2635775",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "德甲",
+            "opponent": "沙尔克04",
+            "source_match_id": "2553979",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "德甲",
+            "opponent": "法兰克福",
+            "source_match_id": "2553938",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "德甲",
+            "opponent": "门兴",
+            "source_match_id": "2553942",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "科隆维多",
+            "source_match_id": "2638950",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042427",
+    "number": "周日015",
+    "home": "格罗宁根",
+    "away": "鹿特丹斯巴达",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 10,
+        "selected_rows": 12,
+        "weighted_xgf": 1.8027248553336406,
+        "weighted_xga": 1.9897794951713463,
+        "weighted_gf_matched": 2.350135687577298,
+        "weighted_ga_matched": 2.1775079808642537,
+        "listed_injury_records": 8,
+        "rest_calendar_days": 2,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "荷兰杯",
+            "opponent": "埃门",
+            "source_match_id": "2639274",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "荷甲",
+            "opponent": "奈梅亨",
+            "source_match_id": "2528216",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "荷甲",
+            "opponent": "阿贾克斯",
+            "source_match_id": "2528230",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "荷甲",
+            "opponent": "SBV精英",
+            "source_match_id": "2528243",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "荷甲",
+            "opponent": "兹沃勒",
+            "source_match_id": "2528273",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 10,
+        "selected_rows": 12,
+        "weighted_xgf": 2.0256260873703957,
+        "weighted_xga": 1.863444580386539,
+        "weighted_gf_matched": 1.800299503710896,
+        "weighted_ga_matched": 2.4672376246520047,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "荷兰杯",
+            "opponent": "福图纳",
+            "source_match_id": "2639270",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "荷甲",
+            "opponent": "阿贾克斯",
+            "source_match_id": "2528214",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "荷甲",
+            "opponent": "威廉二世",
+            "source_match_id": "2528234",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-10",
+            "competition": "荷甲",
+            "opponent": "前进之鹰",
+            "source_match_id": "2528249",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-20",
+            "competition": "荷甲",
+            "opponent": "海伦芬",
+            "source_match_id": "2528280",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "斯巴达周中杯赛120分钟，官网已核实；两队联赛历史之外的负荷",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042428",
+    "number": "周日016",
+    "home": "利物浦",
+    "away": "阿森纳",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.4534514921511388,
+        "weighted_xga": 1.4533226327288604,
+        "weighted_gf_matched": 1.263004196762844,
+        "weighted_ga_matched": 1.2466272576963635,
+        "listed_injury_records": 8,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "英联赛杯",
+            "opponent": "切尔西",
+            "source_match_id": "2637947",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "英超",
+            "opponent": "布赖顿",
+            "source_match_id": "2535486",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-21",
+            "competition": "欧冠",
+            "opponent": "比利亚雷",
+            "source_match_id": "2633769",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "英超",
+            "opponent": "布伦特",
+            "source_match_id": "2535502",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "欧冠",
+            "opponent": "LASK林茨",
+            "source_match_id": "2633784",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 11,
+        "selected_rows": 12,
+        "weighted_xgf": 1.9738782311050629,
+        "weighted_xga": 1.0477395538646441,
+        "weighted_gf_matched": 1.5043964282693674,
+        "weighted_ga_matched": 0.6368072387679096,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 5,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "英联赛杯",
+            "opponent": "福利特",
+            "source_match_id": "2637950",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "英超",
+            "opponent": "埃弗顿",
+            "source_match_id": "2535493",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-22",
+            "competition": "欧冠",
+            "opponent": "拜仁",
+            "source_match_id": "2633762",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "英超",
+            "opponent": "诺丁汉",
+            "source_match_id": "2535495",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-14",
+            "competition": "欧冠",
+            "opponent": "里尔",
+            "source_match_id": "2633789",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "阿森纳同11场：加权实际进球1.50、xG1.97，原小球判断需要复核",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042429",
+    "number": "周日017",
+    "home": "法兰克福",
+    "away": "汉堡",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.76658687135139,
+        "weighted_xga": 2.0413160642892234,
+        "weighted_gf_matched": 1.360490912476374,
+        "weighted_ga_matched": 2.2439673314157216,
+        "listed_injury_records": 3,
+        "rest_calendar_days": 5,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "德国杯",
+            "opponent": "汉堡",
+            "source_match_id": "2635779",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "德甲",
+            "opponent": "多特蒙德",
+            "source_match_id": "2553986",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "德甲",
+            "opponent": "科隆",
+            "source_match_id": "2553938",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "德甲",
+            "opponent": "莱红牛",
+            "source_match_id": "2553948",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-02",
+            "competition": "俱乐部赛",
+            "opponent": "不伦瑞克",
+            "source_match_id": "2638375",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.0791342845202267,
+        "weighted_xga": 1.8161262779785443,
+        "weighted_gf_matched": 1.0412842795657704,
+        "weighted_ga_matched": 2.1192209535001054,
+        "listed_injury_records": 7,
+        "rest_calendar_days": 5,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "德国杯",
+            "opponent": "法兰克福",
+            "source_match_id": "2635779",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "德甲",
+            "opponent": "帕德博恩",
+            "source_match_id": "2553978",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "德甲",
+            "opponent": "斯图加特",
+            "source_match_id": "2553935",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-10",
+            "competition": "德甲",
+            "opponent": "霍芬海姆",
+            "source_match_id": "2553947",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-04",
+            "competition": "俱乐部赛",
+            "opponent": "哥本哈根",
+            "source_match_id": "2638952",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042430",
+    "number": "周日018",
+    "home": "莱切",
+    "away": "热那亚",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.4715829796583353,
+        "weighted_xga": 2.2945203850965825,
+        "weighted_gf_matched": 1.0572843691000617,
+        "weighted_ga_matched": 1.9696000284909463,
+        "listed_injury_records": 7,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "意甲",
+            "opponent": "弗洛西诺",
+            "source_match_id": "2527159",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-26",
+            "competition": "意甲",
+            "opponent": "尤文图斯",
+            "source_match_id": "2527164",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "意甲",
+            "opponent": "乌迪内斯",
+            "source_match_id": "2527172",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "意甲",
+            "opponent": "博洛尼亚",
+            "source_match_id": "2527183",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-21",
+            "competition": "意甲",
+            "opponent": "AC米兰",
+            "source_match_id": "2527193",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 0.871724362314765,
+        "weighted_xga": 1.4487527255960908,
+        "weighted_gf_matched": 0.6612679453405536,
+        "weighted_ga_matched": 1.3299276577938735,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "意甲",
+            "opponent": "尤文图斯",
+            "source_match_id": "2527158",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "意甲",
+            "opponent": "威尼斯",
+            "source_match_id": "2527167",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "意甲",
+            "opponent": "罗马",
+            "source_match_id": "2527173",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-10",
+            "competition": "意甲",
+            "opponent": "佛罗伦萨",
+            "source_match_id": "2527185",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "布快速",
+            "source_match_id": "2639024",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042431",
+    "number": "周日019",
+    "home": "埃尔切",
+    "away": "巴伦西亚",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.2598257015299406,
+        "weighted_xga": 1.8009749672001587,
+        "weighted_gf_matched": 1.2535104046830217,
+        "weighted_ga_matched": 1.708655153016933,
+        "listed_injury_records": 2,
+        "rest_calendar_days": 5,
+        "recent_matches": [
+          {
+            "date": "2026-10-28",
+            "competition": "西国王杯",
+            "opponent": "UD Pinatar",
+            "source_match_id": "2641038",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-24",
+            "competition": "西甲",
+            "opponent": "巴列卡诺",
+            "source_match_id": "2549501",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "西甲",
+            "opponent": "比利亚雷",
+            "source_match_id": "2549507",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "西甲",
+            "opponent": "塞尔塔",
+            "source_match_id": "2549523",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "西甲",
+            "opponent": "西班牙人",
+            "source_match_id": "2549530",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.1717503747962736,
+        "weighted_xga": 1.5044740412897577,
+        "weighted_gf_matched": 1.148310968565405,
+        "weighted_ga_matched": 1.7150633127088393,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 8,
+        "recent_matches": [
+          {
+            "date": "2026-10-25",
+            "competition": "西甲",
+            "opponent": "比利亚雷",
+            "source_match_id": "2549498",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "西甲",
+            "opponent": "毕尔巴鄂",
+            "source_match_id": "2549508",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-12",
+            "competition": "西甲",
+            "opponent": "桑坦德",
+            "source_match_id": "2549519",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-21",
+            "competition": "西甲",
+            "opponent": "皇家社会",
+            "source_match_id": "2549526",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-16",
+            "competition": "西甲",
+            "opponent": "阿拉维斯",
+            "source_match_id": "2549542",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042432",
+    "number": "周日020",
+    "home": "维塞乌",
+    "away": "里奥阿维",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 9,
+        "selected_rows": 9,
+        "weighted_xgf": 1.1181625251752498,
+        "weighted_xga": 1.7684782581798388,
+        "weighted_gf_matched": 1.3520102806877627,
+        "weighted_ga_matched": 1.2776692168456403,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "葡联赛杯",
+            "opponent": "波尔图",
+            "source_match_id": "2572484",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-26",
+            "competition": "葡超",
+            "opponent": "里斯本",
+            "source_match_id": "2556608",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "葡萄牙杯",
+            "opponent": "法蒂玛",
+            "source_match_id": "2639031",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "葡超",
+            "opponent": "埃斯托里",
+            "source_match_id": "2556624",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-20",
+            "competition": "葡超",
+            "opponent": "阿马多拉",
+            "source_match_id": "2556632",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 9,
+        "selected_rows": 12,
+        "weighted_xgf": 0.610983950052384,
+        "weighted_xga": 1.9206377178283265,
+        "weighted_gf_matched": 0.7889226846185916,
+        "weighted_ga_matched": 2.1295351527839874,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 7,
+        "recent_matches": [
+          {
+            "date": "2026-10-26",
+            "competition": "葡超",
+            "opponent": "法马利康",
+            "source_match_id": "2556610",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "葡萄牙杯",
+            "opponent": "Louletano",
+            "source_match_id": "2639032",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "葡超",
+            "opponent": "葡国民",
+            "source_match_id": "2556617",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-20",
+            "competition": "葡超",
+            "opponent": "阿尔维卡",
+            "source_match_id": "2556633",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-15",
+            "competition": "葡超",
+            "opponent": "阿马多拉",
+            "source_match_id": "2556635",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042433",
+    "number": "周日021",
+    "home": "尤文图斯",
+    "away": "那不勒斯",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.6209708711440425,
+        "weighted_xga": 0.5754192433113765,
+        "weighted_gf_matched": 1.1260700672565214,
+        "weighted_ga_matched": 1.1877135714947273,
+        "listed_injury_records": 8,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "意甲",
+            "opponent": "热那亚",
+            "source_match_id": "2527158",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-26",
+            "competition": "意甲",
+            "opponent": "莱切",
+            "source_match_id": "2527164",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-23",
+            "competition": "欧罗巴",
+            "opponent": "雷恩",
+            "source_match_id": "2634030",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-19",
+            "competition": "意甲",
+            "opponent": "拉齐奥",
+            "source_match_id": "2527177",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-16",
+            "competition": "欧罗巴",
+            "opponent": "塞尔塔",
+            "source_match_id": "2634035",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 2.1426651877112146,
+        "weighted_xga": 1.195760944586861,
+        "weighted_gf_matched": 1.9484231220850121,
+        "weighted_ga_matched": 1.1478591541227139,
+        "listed_injury_records": 6,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "意甲",
+            "opponent": "蒙扎",
+            "source_match_id": "2527156",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "意甲",
+            "opponent": "罗马",
+            "source_match_id": "2527163",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-21",
+            "competition": "欧冠",
+            "opponent": "博德闪耀",
+            "source_match_id": "2633772",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "意甲",
+            "opponent": "威尼斯",
+            "source_match_id": "2527171",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-14",
+            "competition": "欧冠",
+            "opponent": "比利亚雷",
+            "source_match_id": "2633883",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042434",
+    "number": "周日022",
+    "home": "马赛",
+    "away": "图卢兹",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 11,
+        "selected_rows": 12,
+        "weighted_xgf": 2.0788653348137527,
+        "weighted_xga": 2.2944103371079576,
+        "weighted_gf_matched": 2.3456517315399177,
+        "weighted_ga_matched": 1.5950631526509933,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 7,
+        "recent_matches": [
+          {
+            "date": "2026-10-26",
+            "competition": "法甲",
+            "opponent": "勒阿弗尔",
+            "source_match_id": "2529136",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-23",
+            "competition": "欧罗巴",
+            "opponent": "格风暴",
+            "source_match_id": "2634029",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "法甲",
+            "opponent": "昂热",
+            "source_match_id": "2529149",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-16",
+            "competition": "欧罗巴",
+            "opponent": "奥林匹亚",
+            "source_match_id": "2634034",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-12",
+            "competition": "法甲",
+            "opponent": "特鲁瓦",
+            "source_match_id": "2529150",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 11,
+        "selected_rows": 12,
+        "weighted_xgf": 1.706481113716069,
+        "weighted_xga": 1.2476300317352365,
+        "weighted_gf_matched": 1.799248369835094,
+        "weighted_ga_matched": 1.3407007748075659,
+        "listed_injury_records": 1,
+        "rest_calendar_days": 7,
+        "recent_matches": [
+          {
+            "date": "2026-10-26",
+            "competition": "法甲",
+            "opponent": "特鲁瓦",
+            "source_match_id": "2529133",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-17",
+            "competition": "法甲",
+            "opponent": "勒芒",
+            "source_match_id": "2529147",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "法甲",
+            "opponent": "摩纳哥",
+            "source_match_id": "2529154",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-03",
+            "competition": "俱乐部赛",
+            "opponent": "波城FC",
+            "source_match_id": "2640246",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-20",
+            "competition": "法甲",
+            "opponent": "勒阿弗尔",
+            "source_match_id": "2529090",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042435",
+    "number": "周日023",
+    "home": "毕尔巴鄂竞技",
+    "away": "皇家社会",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.6093438991112539,
+        "weighted_xga": 1.0131456481943997,
+        "weighted_gf_matched": 1.3853305511273752,
+        "weighted_ga_matched": 0.926812906761617,
+        "listed_injury_records": 4,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "西国王杯",
+            "opponent": "普拉特",
+            "source_match_id": "2642239",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "西甲",
+            "opponent": "赫塔费",
+            "source_match_id": "2549505",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "西甲",
+            "opponent": "巴伦西亚",
+            "source_match_id": "2549508",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-19",
+            "competition": "西甲",
+            "opponent": "阿拉维斯",
+            "source_match_id": "2549533",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-09-13",
+            "competition": "西甲",
+            "opponent": "埃尔切",
+            "source_match_id": "2549551",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "Understat",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.5789073859601372,
+        "weighted_xga": 1.9434792160501344,
+        "weighted_gf_matched": 2.109326980906118,
+        "weighted_ga_matched": 1.9315229622348082,
+        "listed_injury_records": 3,
+        "rest_calendar_days": 7,
+        "recent_matches": [
+          {
+            "date": "2026-10-26",
+            "competition": "西甲",
+            "opponent": "莱万特",
+            "source_match_id": "2549500",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-23",
+            "competition": "欧罗巴",
+            "opponent": "利勒斯特",
+            "source_match_id": "2634004",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-19",
+            "competition": "西甲",
+            "opponent": "马拉加",
+            "source_match_id": "2549511",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-16",
+            "competition": "欧罗巴",
+            "opponent": "圣吉联合",
+            "source_match_id": "2634041",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "西甲",
+            "opponent": "拉科",
+            "source_match_id": "2549516",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042436",
+    "number": "周日024",
+    "home": "格雷米奥",
+    "away": "米内罗竞技",
+    "both_sides_5plus_xg": false,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 0,
+        "selected_rows": 3,
+        "weighted_xgf": null,
+        "weighted_xga": null,
+        "weighted_gf_matched": null,
+        "weighted_ga_matched": null,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "巴甲",
+            "opponent": "巴竞技",
+            "source_match_id": "2468852",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-27",
+            "competition": "巴甲",
+            "opponent": "科里蒂巴",
+            "source_match_id": "2468743",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-19",
+            "competition": "巴甲",
+            "opponent": "克鲁塞罗",
+            "source_match_id": "2468858",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-12",
+            "competition": "巴甲",
+            "opponent": "巴西国际",
+            "source_match_id": "2468862",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-08",
+            "competition": "巴甲",
+            "opponent": "里莫",
+            "source_match_id": "2468981",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 0,
+        "selected_rows": 0,
+        "weighted_xgf": null,
+        "weighted_xga": null,
+        "weighted_gf_matched": null,
+        "weighted_ga_matched": null,
+        "listed_injury_records": 0,
+        "rest_calendar_days": 3,
+        "recent_matches": [
+          {
+            "date": "2026-10-30",
+            "competition": "巴甲",
+            "opponent": "克鲁塞罗",
+            "source_match_id": "2468740",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-27",
+            "competition": "巴甲",
+            "opponent": "弗拉门戈",
+            "source_match_id": "2468857",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-22",
+            "competition": "俱乐部杯",
+            "opponent": "City Torque",
+            "source_match_id": "2638115",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "巴甲",
+            "opponent": "科里蒂巴",
+            "source_match_id": "2468745",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "俱乐部杯",
+            "opponent": "City Torque",
+            "source_match_id": "2638116",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "阶段：Semi-finals",
+      "另补12条杯赛历史，11条可确认90分钟范围；本版原预测仍留空",
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  },
+  {
+    "match_id": "2042437",
+    "number": "周日025",
+    "home": "新英格兰革命",
+    "away": "迈阿密国际",
+    "both_sides_5plus_xg": true,
+    "sides": {
+      "home": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.6487143492833307,
+        "weighted_xga": 1.6524602454878834,
+        "weighted_gf_matched": 1.828588381864966,
+        "weighted_ga_matched": 1.598387390465602,
+        "listed_injury_records": 3,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "美职",
+            "opponent": "纽约红牛",
+            "source_match_id": "2465573",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "美职",
+            "opponent": "费城",
+            "source_match_id": "2465585",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "美职",
+            "opponent": "芝加哥",
+            "source_match_id": "2465601",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "美职",
+            "opponent": "辛辛那提",
+            "source_match_id": "2465617",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "美职",
+            "opponent": "西雅图",
+            "source_match_id": "2465627",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      },
+      "away": {
+        "source": "FotMob",
+        "xg_rows": 12,
+        "selected_rows": 12,
+        "weighted_xgf": 1.5155170037078547,
+        "weighted_xga": 1.8657644570373384,
+        "weighted_gf_matched": 1.9726308719169174,
+        "weighted_ga_matched": 1.4308678110835864,
+        "listed_injury_records": 4,
+        "rest_calendar_days": 4,
+        "recent_matches": [
+          {
+            "date": "2026-10-29",
+            "competition": "美职",
+            "opponent": "辛辛那提",
+            "source_match_id": "2465574",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-25",
+            "competition": "美职",
+            "opponent": "纽约红牛",
+            "source_match_id": "2465589",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-18",
+            "competition": "美职",
+            "opponent": "亚特联",
+            "source_match_id": "2465602",
+            "venue": "away",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-15",
+            "competition": "美职",
+            "opponent": "纽约城",
+            "source_match_id": "2465614",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          },
+          {
+            "date": "2026-10-11",
+            "competition": "美职",
+            "opponent": "华盛顿",
+            "source_match_id": "2465628",
+            "venue": "home",
+            "score_not_used": "period of cup totals not independently certified"
+          }
+        ]
+      }
+    },
+    "notes": [
+      "首发未获俱乐部确认；天气预报已取得"
+    ]
+  }
+]

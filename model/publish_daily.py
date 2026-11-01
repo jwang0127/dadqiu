@@ -84,7 +84,7 @@ def main():
     assert sha(D/'archive-20261031.json')==review['audit']['archive_sha256']
     write(D/'published-forecast.json',board);write(P/'data/today.json',board)
     validation=read(P/'data/validation.json');build_html.build('today',board,validation);build_html.build('history',board,validation);review_page(review)
-    page=P/'index.html';s=page.read_text(encoding='utf-8');s=s.replace('<section class="leaders"', '<p class="note"><a href="review.html">昨日完整复盘</a>：网页5+前五0/5、0–1前五0/5。今天仍是相对排序的低置信观察；概率不因昨日输赢手工加减。韩职争冠组与杯赛另列风险。</p><section class="leaders"');page.write_text(s,encoding='utf-8')
+    page=P/'index.html';s=page.read_text(encoding='utf-8');s=s.replace('<section class="leaders"', '<p class="note"><a href="context.html">逐场数据补充</a> · <a href="review.html">昨日完整复盘</a>：网页5+前五0/5、0–1前五0/5。今天仍是相对排序的低置信观察；概率不因昨日输赢手工加减。韩职争冠组与杯赛另列风险。</p><section class="leaders"');page.write_text(s,encoding='utf-8')
     # Store an immutable dated forecast page. Relative links remain valid via base href.
     dated=P/'20261101';dated.mkdir(exist_ok=True);(dated/'index.html').write_text(s.replace('<head>','<head><base href="../">'),encoding='utf-8')
     out=P.parents[1]/'outputs/20261101';out.mkdir(parents=True,exist_ok=True)

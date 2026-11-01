@@ -1,0 +1,20 @@
+{
+  "fixtures": 25,
+  "fixtures_both_sides_at_least5_xg": 23,
+  "understat_own_xg_observations": 279,
+  "fotmob_own_xg_observations": 249,
+  "sporttery_listed_injury_records": 163,
+  "cross_competition_team_schedules": 50,
+  "espn_historical_events": 465,
+  "espn_verified_red_timelines": 464,
+  "espn_onfield_red_matches": 66,
+  "understat_shot_verified_matches": 240,
+  "fotmob_shot_verified_matches": 170,
+  "weather_forecasts": 25,
+  "confirmed_current_xi": 0,
+  "kickoff_discrepancies_resolved_with_clubs": 2,
+  "extra_cup_history": 12,
+  "extra_cup_90verified": 11,
+  "probabilities_changed": false,
+  "collected_at": "2026-11-01T11:09:24.076618+08:00"
+}

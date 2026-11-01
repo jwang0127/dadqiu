@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "width": 1440,
+      "rows": 25,
+      "overflow": false,
+      "hasLimit": true
+    },
+    {
+      "width": 390,
+      "rows": 25,
+      "overflow": false,
+      "hasLimit": true
+    }
+  ],
+  "javascript_exceptions": 0
+}
