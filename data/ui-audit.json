@@ -4,27 +4,27 @@
   "checks": [
     {
       "name": "desktop full table",
-      "rows": 28,
+      "rows": 25,
       "overflow": false,
-      "first": "2042398"
+      "first": "2042427"
     },
     {
       "name": "five-plus top five",
       "rows": 5,
       "overflow": false,
-      "first": "2042398"
+      "first": "2042427"
     },
     {
       "name": "zero-one top five",
       "rows": 5,
       "overflow": false,
-      "first": "2042400"
+      "first": "2042421"
     },
     {
       "name": "team search",
       "rows": 1,
       "overflow": false,
-      "first": "2042398"
+      "first": "2042427"
     },
     {
       "name": "empty search",
@@ -33,9 +33,9 @@
     },
     {
       "name": "mobile full table",
-      "rows": 28,
+      "rows": 25,
       "overflow": false,
-      "first": "2042398"
+      "first": "2042427"
     },
     {
       "name": "history first page",

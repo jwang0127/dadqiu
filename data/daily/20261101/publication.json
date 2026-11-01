@@ -1,0 +1,13 @@
+{
+  "business_date": "2026-11-01",
+  "published_at": "2026-11-01T09:42:35.366868+08:00",
+  "fixtures": 25,
+  "forecasts": 24,
+  "missing": [
+    "周日024"
+  ],
+  "all_confidence_low": true,
+  "model_changed": false,
+  "all_500_fixtures_verified": true,
+  "archive_unchanged": true
+}

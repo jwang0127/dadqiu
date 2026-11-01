@@ -1,0 +1,5 @@
+{
+  "url": "https://webapi.sporttery.cn/gateway/uniform/football/getUniformMatchResultV1.qry?matchBeginDate=2026-10-31&matchEndDate=2026-11-02&leagueId=&pageSize=100&pageNo=1&isFix=0&matchPage=1&pcOrWap=1",
+  "received_at": "2026-11-01T09:32:30.218888+08:00",
+  "sha256": "86fdffe7d2031a09e9bcb0a1fb87aa3d5411c5e5c2b6fe64a4d70c046190f977"
+}

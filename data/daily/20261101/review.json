@@ -1,0 +1,1677 @@
+{
+  "business_date": "2026-10-31",
+  "generated_at": "2026-11-01T09:40:10.540637+08:00",
+  "fixtures": 28,
+  "result_count": 28,
+  "archived_forecasts": 23,
+  "no_forecast": 5,
+  "modal_diagnostic": {
+    "hits": 8,
+    "n": 23,
+    "rate": 0.34782608695652173,
+    "warning": "diagnostic argmax of archived distribution; not a newly invented published exact pick"
+  },
+  "metrics": {
+    "n": 23,
+    "logloss": 1.8606403319324882,
+    "objective": 0.1284929338435733,
+    "zero_one": 0.10189261669201387,
+    "five_plus": 0.11725342290553419,
+    "six_plus": 0.11051355197519723,
+    "four_plus": 0.22281105453651479,
+    "three_plus": 0.24168955582593674,
+    "tails": {
+      "zero_one": {
+        "all": {
+          "n": 23,
+          "mean_probability": 0.19670008840433403,
+          "observed_events": 2,
+          "observed_rate": 0.08695652173913043,
+          "brier": 0.10189261669201387,
+          "average_precision": 0.10416666666666666
+        },
+        "daily_top20percent": {
+          "n": 5,
+          "mean_probability": 0.29045906016097134,
+          "observed_events": 0,
+          "observed_rate": 0.0,
+          "brier": 0.08616972794213248,
+          "average_precision": null,
+          "lift": 0.0
+        },
+        "daily_top5": {
+          "n": 10,
+          "mean_probability": 0.25298741467464936,
+          "observed_events": 1,
+          "observed_rate": 0.1,
+          "brier": 0.1384919406747473,
+          "average_precision": 0.1
+        },
+        "calibration_bands": [
+          {
+            "low": 0,
+            "high": 0.1,
+            "n": 0
+          },
+          {
+            "low": 0.1,
+            "high": 0.2,
+            "n": 12,
+            "mean_probability": 0.14068663126897302,
+            "observed_events": 2,
+            "observed_rate": 0.16666666666666666,
+            "brier": 0.13275904388401735,
+            "average_precision": 0.7
+          },
+          {
+            "low": 0.2,
+            "high": 0.3,
+            "n": 9,
+            "mean_probability": 0.2404812442472486,
+            "observed_events": 0,
+            "observed_rate": 0.0,
+            "brier": 0.05832613633046768,
+            "average_precision": null
+          },
+          {
+            "low": 0.3,
+            "high": 0.4,
+            "n": 2,
+            "mean_probability": 0.3357656299233849,
+            "observed_events": 0,
+            "observed_rate": 0.0,
+            "brier": 0.11274321516695088,
+            "average_precision": null
+          },
+          {
+            "low": 0.4,
+            "high": 0.5,
+            "n": 0
+          },
+          {
+            "low": 0.5,
+            "high": 1,
+            "n": 0
+          }
+        ]
+      },
+      "five_plus": {
+        "all": {
+          "n": 23,
+          "mean_probability": 0.21546280859047015,
+          "observed_events": 3,
+          "observed_rate": 0.13043478260869565,
+          "brier": 0.11725342290553419,
+          "average_precision": 0.21746031746031746
+        },
+        "daily_top20percent": {
+          "n": 5,
+          "mean_probability": 0.31050482211103,
+          "observed_events": 0,
+          "observed_rate": 0.0,
+          "brier": 0.09662697787135327,
+          "average_precision": null,
+          "lift": 0.0
+        },
+        "daily_top5": {
+          "n": 10,
+          "mean_probability": 0.2846010612316847,
+          "observed_events": 2,
+          "observed_rate": 0.2,
+          "brier": 0.16670578332442743,
+          "average_precision": 0.22619047619047616
+        },
+        "calibration_bands": [
+          {
+            "low": 0,
+            "high": 0.1,
+            "n": 2,
+            "mean_probability": 0.08831365162346214,
+            "observed_events": 0,
+            "observed_rate": 0.0,
+            "brier": 0.007801606980516561,
+            "average_precision": null
+          },
+          {
+            "low": 0.1,
+            "high": 0.2,
+            "n": 9,
+            "mean_probability": 0.15777859650748424,
+            "observed_events": 1,
+            "observed_rate": 0.1111111111111111,
+            "brier": 0.09856133040379342,
+            "average_precision": 0.3333333333333333
+          },
+          {
+            "low": 0.2,
+            "high": 0.3,
+            "n": 9,
+            "mean_probability": 0.26671660412803755,
+            "observed_events": 2,
+            "observed_rate": 0.2222222222222222,
+            "brier": 0.16527207166271451,
+            "average_precision": 0.41666666666666663
+          },
+          {
+            "low": 0.3,
+            "high": 0.4,
+            "n": 3,
+            "mean_probability": 0.3195201628713977,
+            "observed_events": 0,
+            "observed_rate": 0.0,
+            "brier": 0.10224163142256064,
+            "average_precision": null
+          },
+          {
+            "low": 0.4,
+            "high": 0.5,
+            "n": 0
+          },
+          {
+            "low": 0.5,
+            "high": 1,
+            "n": 0
+          }
+        ]
+      },
+      "six_plus": {
+        "all": {
+          "n": 23,
+          "mean_probability": 0.10851336557396968,
+          "observed_events": 3,
+          "observed_rate": 0.13043478260869565,
+          "brier": 0.11051355197519723,
+          "average_precision": 0.21746031746031746
+        },
+        "daily_top20percent": {
+          "n": 5,
+          "mean_probability": 0.1704342087549074,
+          "observed_events": 0,
+          "observed_rate": 0.0,
+          "brier": 0.029165273203629816,
+          "average_precision": null,
+          "lift": 0.0
+        },
+        "daily_top5": {
+          "n": 10,
+          "mean_probability": 0.15301771626715371,
+          "observed_events": 2,
+          "observed_rate": 0.2,
+          "brier": 0.16166454993808518,
+          "average_precision": 0.22619047619047616
+        },
+        "calibration_bands": [
+          {
+            "low": 0,
+            "high": 0.1,
+            "n": 11,
+            "mean_probability": 0.06403277077407422,
+            "observed_events": 1,
+            "observed_rate": 0.09090909090909091,
+            "brier": 0.08114564081984009,
+            "average_precision": 0.3333333333333333
+          },
+          {
+            "low": 0.1,
+            "high": 0.2,
+            "n": 12,
+            "mean_probability": 0.1492872441405405,
+            "observed_events": 2,
+            "observed_rate": 0.16666666666666666,
+            "brier": 0.13743413720094125,
+            "average_precision": 0.22619047619047616
+          },
+          {
+            "low": 0.2,
+            "high": 0.3,
+            "n": 0
+          },
+          {
+            "low": 0.3,
+            "high": 0.4,
+            "n": 0
+          },
+          {
+            "low": 0.4,
+            "high": 0.5,
+            "n": 0
+          },
+          {
+            "low": 0.5,
+            "high": 1,
+            "n": 0
+          }
+        ]
+      },
+      "four_plus": {
+        "all": {
+          "n": 23,
+          "mean_probability": 0.38103791119175806,
+          "observed_events": 8,
+          "observed_rate": 0.34782608695652173,
+          "brier": 0.22281105453651479,
+          "average_precision": 0.4441295546558704
+        },
+        "daily_top20percent": {
+          "n": 5,
+          "mean_probability": 0.5001381716087148,
+          "observed_events": 2,
+          "observed_rate": 0.4,
+          "brier": 0.2518544476498034,
+          "average_precision": 0.45,
+          "lift": 1.1500000000000001
+        },
+        "daily_top5": {
+          "n": 10,
+          "mean_probability": 0.4689119806388956,
+          "observed_events": 5,
+          "observed_rate": 0.5,
+          "brier": 0.2673206685031135,
+          "average_precision": 0.49428571428571433
+        },
+        "calibration_bands": [
+          {
+            "low": 0,
+            "high": 0.1,
+            "n": 0
+          },
+          {
+            "low": 0.1,
+            "high": 0.2,
+            "n": 0
+          },
+          {
+            "low": 0.2,
+            "high": 0.3,
+            "n": 4,
+            "mean_probability": 0.23538824698988295,
+            "observed_events": 1,
+            "observed_rate": 0.25,
+            "brier": 0.16170322391142047,
+            "average_precision": 1.0
+          },
+          {
+            "low": 0.3,
+            "high": 0.4,
+            "n": 9,
+            "mean_probability": 0.3375216532110199,
+            "observed_events": 3,
+            "observed_rate": 0.3333333333333333,
+            "brier": 0.2310385815717909,
+            "average_precision": 0.3888888888888889
+          },
+          {
+            "low": 0.4,
+            "high": 0.5,
+            "n": 8,
+            "mean_probability": 0.4683394594326098,
+            "observed_events": 3,
+            "observed_rate": 0.375,
+            "brier": 0.23605083834905924,
+            "average_precision": 0.47777777777777775
+          },
+          {
+            "low": 0.5,
+            "high": 1,
+            "n": 2,
+            "mean_probability": 0.5189542075454228,
+            "observed_events": 1,
+            "observed_rate": 0.5,
+            "brier": 0.2550437088777831,
+            "average_precision": 0.5
+          }
+        ]
+      },
+      "three_plus": {
+        "all": {
+          "n": 23,
+          "mean_probability": 0.5928291577161736,
+          "observed_events": 13,
+          "observed_rate": 0.5652173913043478,
+          "brier": 0.24168955582593674,
+          "average_precision": 0.6689695931598765
+        },
+        "daily_top20percent": {
+          "n": 5,
+          "mean_probability": 0.7072482813959479,
+          "observed_events": 4,
+          "observed_rate": 0.8,
+          "brier": 0.1768752691167701,
+          "average_precision": 0.6791666666666667,
+          "lift": 1.4153846153846155
+        },
+        "daily_top5": {
+          "n": 10,
+          "mean_probability": 0.6787336681611508,
+          "observed_events": 7,
+          "observed_rate": 0.7,
+          "brier": 0.2179002861747982,
+          "average_precision": 0.7295918367346939
+        },
+        "calibration_bands": [
+          {
+            "low": 0,
+            "high": 0.1,
+            "n": 0
+          },
+          {
+            "low": 0.1,
+            "high": 0.2,
+            "n": 0
+          },
+          {
+            "low": 0.2,
+            "high": 0.3,
+            "n": 0
+          },
+          {
+            "low": 0.3,
+            "high": 0.4,
+            "n": 0
+          },
+          {
+            "low": 0.4,
+            "high": 0.5,
+            "n": 3,
+            "mean_probability": 0.4194119711788789,
+            "observed_events": 1,
+            "observed_rate": 0.3333333333333333,
+            "brier": 0.23881893068048954,
+            "average_precision": 0.5
+          },
+          {
+            "low": 0.5,
+            "high": 1,
+            "n": 20,
+            "mean_probability": 0.6188417356967678,
+            "observed_events": 12,
+            "observed_rate": 0.6,
+            "brier": 0.2421201495977538,
+            "average_precision": 0.6754746350141088
+          }
+        ]
+      }
+    }
+  },
+  "rankings": {
+    "five_plus_top5": {
+      "n": 5,
+      "hits": 0,
+      "mean_probability": 0.31050482211103,
+      "ids": [
+        "2042398",
+        "2042407",
+        "2042393",
+        "2042396",
+        "2042409"
+      ]
+    },
+    "four_plus_top5": {
+      "n": 5,
+      "hits": 2,
+      "mean_probability": 0.5001381716087147,
+      "ids": [
+        "2042398",
+        "2042407",
+        "2042393",
+        "2042396",
+        "2042409"
+      ]
+    },
+    "zero_one_top5": {
+      "n": 5,
+      "hits": 0,
+      "mean_probability": 0.29341249389891155,
+      "ids": [
+        "2042400",
+        "2042404",
+        "2042410",
+        "2042391",
+        "2042399"
+      ]
+    },
+    "late_chat_high_four": {
+      "n": 4,
+      "four_plus_hits": 3,
+      "five_plus_hits": 1,
+      "ids": [
+        "2042407",
+        "2042409",
+        "2042411",
+        "2042412"
+      ]
+    },
+    "late_chat_low_two": {
+      "n": 2,
+      "hits": 0
+    }
+  },
+  "audit": {
+    "target_duplicates": 0,
+    "duplicate_selected_history_rows": 0,
+    "shared_head_to_head_history_pairs": 3,
+    "unique_prediction_vectors": 23,
+    "forecast_count": 23,
+    "identical_own_history_sequences": 0,
+    "all_500_scores_agree": true,
+    "all_500_status_finished": true,
+    "all_teams_times_verified": true,
+    "archive_sha256": "c116d9ab2b5611b99a6b75e7280ab7e23a6fc06dceeda50f321ada2b72995f56"
+  },
+  "challenger": {
+    "name": "window_20",
+    "selection": "frozen before yesterday results; development through 2026-09-28",
+    "n": 23,
+    "baseline": {
+      "n": 23,
+      "logloss": 1.8606403319324882,
+      "objective": 0.1284929338435733,
+      "zero_one": 0.10189261669201387,
+      "five_plus": 0.11725342290553419,
+      "six_plus": 0.11051355197519723,
+      "four_plus": 0.22281105453651479,
+      "three_plus": 0.24168955582593674
+    },
+    "challenger": {
+      "n": 23,
+      "logloss": 1.842454083168456,
+      "objective": 0.12503816058255088,
+      "zero_one": 0.10055747796974276,
+      "five_plus": 0.11090478542081891,
+      "six_plus": 0.10837859586203728,
+      "four_plus": 0.21385168104332045,
+      "three_plus": 0.23481077497155606
+    },
+    "promotion": false,
+    "reason": "One new day cannot override prior October failed promotion; no selection from yesterday results"
+  },
+  "matches": [
+    {
+      "match_id": "2042385",
+      "number": "周六001",
+      "home": "冈山绿雉",
+      "away": "东京FC",
+      "league": "日职",
+      "score": [
+        0,
+        4
+      ],
+      "total": 4,
+      "probabilities": null,
+      "source_500": {
+        "id": "1419347",
+        "number": "周六001",
+        "league": "日职",
+        "home": "冈山绿雉",
+        "away": "东京FC",
+        "time": "10-31 13:00",
+        "status": "4",
+        "score": [
+          0,
+          4
+        ],
+        "url": "https://live.500.com/detail.php?fid=1419347",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042385",
+      "forecast_at": null,
+      "kickoff": "2026-10-31T13:00:00+08:00",
+      "frozen_prediction": false,
+      "modal_bucket": null,
+      "expected": null
+    },
+    {
+      "match_id": "2042386",
+      "number": "周六002",
+      "home": "仙台七夕",
+      "away": "大宫松鼠RB",
+      "league": "日乙",
+      "score": [
+        1,
+        2
+      ],
+      "total": 3,
+      "probabilities": null,
+      "source_500": {
+        "id": "1419284",
+        "number": "周六002",
+        "league": "日职乙",
+        "home": "仙台七夕",
+        "away": "大宫松鼠RB",
+        "time": "10-31 13:00",
+        "status": "4",
+        "score": [
+          1,
+          2
+        ],
+        "url": "https://live.500.com/detail.php?fid=1419284",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042386",
+      "forecast_at": null,
+      "kickoff": "2026-10-31T13:00:00+08:00",
+      "frozen_prediction": false,
+      "modal_bucket": null,
+      "expected": null
+    },
+    {
+      "match_id": "2042387",
+      "number": "周六003",
+      "home": "柏太阳神",
+      "away": "浦和红钻",
+      "league": "日职",
+      "score": [
+        4,
+        0
+      ],
+      "total": 4,
+      "probabilities": null,
+      "source_500": {
+        "id": "1419258",
+        "number": "周六003",
+        "league": "日职",
+        "home": "柏太阳神",
+        "away": "浦和红钻",
+        "time": "10-31 15:00",
+        "status": "4",
+        "score": [
+          4,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1419258",
+        "home_red": 0,
+        "away_red": 1
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042387",
+      "forecast_at": null,
+      "kickoff": "2026-10-31T15:00:00+08:00",
+      "frozen_prediction": false,
+      "modal_bucket": null,
+      "expected": null
+    },
+    {
+      "match_id": "2042388",
+      "number": "周六004",
+      "home": "光州FC",
+      "away": "金泉尚武",
+      "league": "韩职",
+      "score": [
+        1,
+        1
+      ],
+      "total": 2,
+      "probabilities": null,
+      "source_500": {
+        "id": "1504219",
+        "number": "周六004",
+        "league": "K1联赛",
+        "home": "光州FC",
+        "away": "金泉尚武",
+        "time": "10-31 15:30",
+        "status": "4",
+        "score": [
+          1,
+          1
+        ],
+        "url": "https://live.500.com/detail.php?fid=1504219",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042388",
+      "forecast_at": null,
+      "kickoff": "2026-10-31T15:30:00+08:00",
+      "frozen_prediction": false,
+      "modal_bucket": null,
+      "expected": null
+    },
+    {
+      "match_id": "2042389",
+      "number": "周六005",
+      "home": "麦克阿瑟FC",
+      "away": "西悉尼漫步者",
+      "league": "澳超",
+      "score": [
+        0,
+        0
+      ],
+      "total": 0,
+      "probabilities": null,
+      "source_500": {
+        "id": "1450958",
+        "number": "周六005",
+        "league": "澳超",
+        "home": "麦克阿瑟FC",
+        "away": "西悉尼",
+        "time": "10-31 16:40",
+        "status": "4",
+        "score": [
+          0,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1450958",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042389",
+      "forecast_at": null,
+      "kickoff": "2026-10-31T16:40:00+08:00",
+      "frozen_prediction": false,
+      "modal_bucket": null,
+      "expected": null
+    },
+    {
+      "match_id": "2042390",
+      "number": "周六006",
+      "home": "切尔西",
+      "away": "曼彻斯特联",
+      "league": "英超",
+      "score": [
+        2,
+        0
+      ],
+      "total": 2,
+      "probabilities": [
+        0.038669705274998675,
+        0.12329555383130783,
+        0.19897955874432538,
+        0.21668482289370894,
+        0.17910071293549437,
+        0.1198346516692187,
+        0.06760094480678455,
+        0.055834049844161515
+      ],
+      "source_500": {
+        "id": "1420522",
+        "number": "周六006",
+        "league": "英超",
+        "home": "切尔西",
+        "away": "曼联",
+        "time": "10-31 20:30",
+        "status": "4",
+        "score": [
+          2,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1420522",
+        "home_red": 0,
+        "away_red": 1
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042390",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T20:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.3187091150650674
+    },
+    {
+      "match_id": "2042391",
+      "number": "周六007",
+      "home": "林肯城",
+      "away": "伯明翰",
+      "league": "英冠",
+      "score": [
+        1,
+        3
+      ],
+      "total": 4,
+      "probabilities": [
+        0.07045451794478141,
+        0.18285406535260598,
+        0.24121548292387862,
+        0.21559264631084893,
+        0.14683574083451809,
+        0.08126794049847882,
+        0.03806451620754788,
+        0.023715089927340283
+      ],
+      "source_500": {
+        "id": "1425846",
+        "number": "周六007",
+        "league": "英冠",
+        "home": "林肯城",
+        "away": "伯明翰",
+        "time": "10-31 20:30",
+        "status": "4",
+        "score": [
+          1,
+          3
+        ],
+        "url": "https://live.500.com/detail.php?fid=1425846",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042391",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T20:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.711934307854404
+    },
+    {
+      "match_id": "2042392",
+      "number": "周六008",
+      "home": "莱万特",
+      "away": "马德里竞技",
+      "league": "西甲",
+      "score": [
+        0,
+        2
+      ],
+      "total": 2,
+      "probabilities": [
+        0.03458583388552906,
+        0.11356692050018596,
+        0.18915731753358703,
+        0.21304054958518018,
+        0.18248855253433485,
+        0.12679092686839877,
+        0.07441615356745165,
+        0.06595374552533251
+      ],
+      "source_500": {
+        "id": "1428124",
+        "number": "周六008",
+        "league": "西甲",
+        "home": "莱万特",
+        "away": "马竞",
+        "time": "10-31 21:00",
+        "status": "4",
+        "score": [
+          0,
+          2
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428124",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042392",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T21:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.4476621662891596
+    },
+    {
+      "match_id": "2042393",
+      "number": "周六009",
+      "home": "博洛尼亚",
+      "away": "蒙扎",
+      "league": "意甲",
+      "score": [
+        2,
+        1
+      ],
+      "total": 3,
+      "probabilities": [
+        0.027631563050201795,
+        0.09771665753253045,
+        0.17420259910351357,
+        0.20872450566313505,
+        0.18908156682657368,
+        0.13812830906398815,
+        0.08475693562343602,
+        0.07975786313662125
+      ],
+      "source_500": {
+        "id": "1414178",
+        "number": "周六009",
+        "league": "意甲",
+        "home": "博洛尼亚",
+        "away": "蒙扎",
+        "time": "10-31 22:00",
+        "status": "4",
+        "score": [
+          2,
+          1
+        ],
+        "url": "https://live.500.com/detail.php?fid=1414178",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042393",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T22:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.6422183961195493
+    },
+    {
+      "match_id": "2042394",
+      "number": "周六010",
+      "home": "勒沃库森",
+      "away": "斯图加特",
+      "league": "德甲",
+      "score": [
+        2,
+        4
+      ],
+      "total": 6,
+      "probabilities": [
+        0.029729938325962716,
+        0.10264093105874034,
+        0.17901382628711737,
+        0.21027381533221978,
+        0.18712178620418096,
+        0.134551659675434,
+        0.08142639757164996,
+        0.07524164554469481
+      ],
+      "source_500": {
+        "id": "1428606",
+        "number": "周六010",
+        "league": "德甲",
+        "home": "勒沃库森",
+        "away": "斯图加特",
+        "time": "10-31 22:30",
+        "status": "4",
+        "score": [
+          2,
+          4
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428606",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042394",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T22:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.580307904613852
+    },
+    {
+      "match_id": "2042395",
+      "number": "周六011",
+      "home": "沙尔克04",
+      "away": "莱比锡红牛",
+      "league": "德甲",
+      "score": [
+        0,
+        2
+      ],
+      "total": 2,
+      "probabilities": [
+        0.06395723315365176,
+        0.1716598619133817,
+        0.23442609207368567,
+        0.21712491615391732,
+        0.15339334623020964,
+        0.08814618452366467,
+        0.04290537184757012,
+        0.028386994103919094
+      ],
+      "source_500": {
+        "id": "1428622",
+        "number": "周六011",
+        "league": "德甲",
+        "home": "沙尔克04",
+        "away": "莱红牛",
+        "time": "10-31 22:30",
+        "status": "4",
+        "score": [
+          0,
+          2
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428622",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042395",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T22:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.8172552506622006
+    },
+    {
+      "match_id": "2042396",
+      "number": "周六012",
+      "home": "奥格斯堡",
+      "away": "弗赖堡",
+      "league": "德甲",
+      "score": [
+        1,
+        2
+      ],
+      "total": 3,
+      "probabilities": [
+        0.027734447285878636,
+        0.09828002611784845,
+        0.1752654550291665,
+        0.20971683928828166,
+        0.18941345327993914,
+        0.13773360988150668,
+        0.08399084402179194,
+        0.07786532509558697
+      ],
+      "source_500": {
+        "id": "1428610",
+        "number": "周六012",
+        "league": "德甲",
+        "home": "奥格斯堡",
+        "away": "弗赖堡",
+        "time": "10-31 22:30",
+        "status": "4",
+        "score": [
+          1,
+          2
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428610",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042396",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T22:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.627201163085503
+    },
+    {
+      "match_id": "2042397",
+      "number": "周六013",
+      "home": "门兴格拉德巴赫",
+      "away": "帕德博恩",
+      "league": "德甲",
+      "score": [
+        0,
+        0
+      ],
+      "total": 0,
+      "probabilities": [
+        0.04570337272748392,
+        0.13683878549674192,
+        0.20887016406669678,
+        0.2166345994730114,
+        0.17169641466754354,
+        0.11088078329577751,
+        0.06075724519161918,
+        0.04861863508112574
+      ],
+      "source_500": {
+        "id": "1428617",
+        "number": "周六013",
+        "league": "德甲",
+        "home": "门兴",
+        "away": "帕德博恩",
+        "time": "10-31 22:30",
+        "status": "4",
+        "score": [
+          0,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428617",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042397",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T22:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.1808715095145734
+    },
+    {
+      "match_id": "2042398",
+      "number": "周六014",
+      "home": "云达不来梅",
+      "away": "霍芬海姆",
+      "league": "德甲",
+      "score": [
+        2,
+        0
+      ],
+      "total": 2,
+      "probabilities": [
+        0.02324723513858115,
+        0.08673978331533905,
+        0.1625198806342494,
+        0.2038761873001597,
+        0.19263842661902603,
+        0.14623676972425206,
+        0.09290272106743185,
+        0.09183899620096081
+      ],
+      "source_500": {
+        "id": "1428619",
+        "number": "周六014",
+        "league": "德甲",
+        "home": "不来梅",
+        "away": "霍芬海姆",
+        "time": "10-31 22:30",
+        "status": "4",
+        "score": [
+          2,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428619",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042398",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T22:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.79228182220423
+    },
+    {
+      "match_id": "2042399",
+      "number": "周六015",
+      "home": "考文垂",
+      "away": "桑德兰",
+      "league": "英超",
+      "score": [
+        3,
+        1
+      ],
+      "total": 4,
+      "probabilities": [
+        0.06901814361221907,
+        0.177132194113314,
+        0.23429022316796919,
+        0.21275773900244227,
+        0.14910049109577037,
+        0.08594481965839403,
+        0.042414106375563906,
+        0.029342282974327172
+      ],
+      "source_500": {
+        "id": "1420527",
+        "number": "周六015",
+        "league": "英超",
+        "home": "考文垂",
+        "away": "桑德兰",
+        "time": "10-31 23:00",
+        "status": "4",
+        "score": [
+          3,
+          1
+        ],
+        "url": "https://live.500.com/detail.php?fid=1420527",
+        "home_red": 0,
+        "away_red": 1
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042399",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T23:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.786336689825143
+    },
+    {
+      "match_id": "2042400",
+      "number": "周六016",
+      "home": "伯恩茅斯",
+      "away": "利兹联",
+      "league": "英超",
+      "score": [
+        2,
+        0
+      ],
+      "total": 2,
+      "probabilities": [
+        0.10531779446993746,
+        0.23260582736803243,
+        0.2611977022315394,
+        0.19877758413803712,
+        0.11530596492885646,
+        0.054367497855713064,
+        0.02169954188131042,
+        0.010728087126573693
+      ],
+      "source_500": {
+        "id": "1420518",
+        "number": "周六016",
+        "league": "英超",
+        "home": "伯恩茅斯",
+        "away": "利兹联",
+        "time": "10-31 23:00",
+        "status": "4",
+        "score": [
+          2,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1420518",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042400",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T23:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.294016900389355
+    },
+    {
+      "match_id": "2042401",
+      "number": "周六017",
+      "home": "赫尔城",
+      "away": "伊普斯维奇",
+      "league": "英超",
+      "score": [
+        2,
+        2
+      ],
+      "total": 4,
+      "probabilities": [
+        0.05724062118713214,
+        0.15833182795995934,
+        0.2241467750338472,
+        0.21642376913858058,
+        0.16025718180761253,
+        0.09702593626145391,
+        0.050008374680510156,
+        0.036565513930904125
+      ],
+      "source_500": {
+        "id": "1420541",
+        "number": "周六017",
+        "league": "英超",
+        "home": "赫尔城",
+        "away": "伊普斯",
+        "time": "10-31 23:00",
+        "status": "4",
+        "score": [
+          2,
+          2
+        ],
+        "url": "https://live.500.com/detail.php?fid=1420541",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042401",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T23:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.9592547774472058
+    },
+    {
+      "match_id": "2042402",
+      "number": "周六018",
+      "home": "布伦特福德",
+      "away": "诺丁汉森林",
+      "league": "英超",
+      "score": [
+        2,
+        0
+      ],
+      "total": 2,
+      "probabilities": [
+        0.06216410408814184,
+        0.17079175240715974,
+        0.23649045415358738,
+        0.2200348110818691,
+        0.154748339532389,
+        0.08774448011308258,
+        0.041780693753118256,
+        0.0262453648706521
+      ],
+      "source_500": {
+        "id": "1420520",
+        "number": "周六018",
+        "league": "英超",
+        "home": "布伦特",
+        "away": "诺丁汉",
+        "time": "10-31 23:00",
+        "status": "4",
+        "score": [
+          2,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1420520",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042402",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T23:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.808975869161749
+    },
+    {
+      "match_id": "2042403",
+      "number": "周六019",
+      "home": "腓特烈斯塔",
+      "away": "罗森博格",
+      "league": "挪超",
+      "score": [
+        0,
+        3
+      ],
+      "total": 3,
+      "probabilities": [
+        0.04334448288477415,
+        0.1336452344734081,
+        0.20837468391253708,
+        0.21902429126593806,
+        0.17457999919493594,
+        0.11254545330631027,
+        0.061118157101756034,
+        0.04736769786034034
+      ],
+      "source_500": {
+        "id": "1364323",
+        "number": "周六019",
+        "league": "挪超",
+        "home": "腓特烈",
+        "away": "罗森博格",
+        "time": "10-31 23:00",
+        "status": "4",
+        "score": [
+          0,
+          3
+        ],
+        "url": "https://live.500.com/detail.php?fid=1364323",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042403",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T23:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.1951521165044388
+    },
+    {
+      "match_id": "2042404",
+      "number": "周六020",
+      "home": "巴列卡诺",
+      "away": "维戈塞尔塔",
+      "league": "西甲",
+      "score": [
+        3,
+        0
+      ],
+      "total": 3,
+      "probabilities": [
+        0.10362396724010482,
+        0.2299836707686951,
+        0.26000657311881387,
+        0.19957830238215496,
+        0.11697531010690417,
+        0.05582367203525165,
+        0.02258822678622696,
+        0.01142027756184849
+      ],
+      "source_500": {
+        "id": "1428127",
+        "number": "周六020",
+        "league": "西甲",
+        "home": "巴列卡诺",
+        "away": "塞尔塔",
+        "time": "10-31 23:15",
+        "status": "4",
+        "score": [
+          3,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428127",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042404",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-10-31T23:15:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.315936947614528
+    },
+    {
+      "match_id": "2042405",
+      "number": "周六021",
+      "home": "乌迪内斯",
+      "away": "罗马",
+      "league": "意甲",
+      "score": [
+        2,
+        5
+      ],
+      "total": 7,
+      "probabilities": [
+        0.060803864773765225,
+        0.1655063639067877,
+        0.229826512116856,
+        0.21699718410969987,
+        0.15666200518346718,
+        0.09221433062673222,
+        0.04608226547046604,
+        0.031907473812225806
+      ],
+      "source_500": {
+        "id": "1414169",
+        "number": "周六021",
+        "league": "意甲",
+        "home": "乌迪内斯",
+        "away": "罗马",
+        "time": "11-01 01:00",
+        "status": "4",
+        "score": [
+          2,
+          5
+        ],
+        "url": "https://live.500.com/detail.php?fid=1414169",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042405",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T01:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.881251760479995
+    },
+    {
+      "match_id": "2042406",
+      "number": "周六022",
+      "home": "托特纳姆热刺",
+      "away": "水晶宫",
+      "league": "英超",
+      "score": [
+        2,
+        0
+      ],
+      "total": 2,
+      "probabilities": [
+        0.060679852834670006,
+        0.16628133731696781,
+        0.23147315608880836,
+        0.21819615000163595,
+        0.15665026810147115,
+        0.09134408962003528,
+        0.04505320702545598,
+        0.03032193901095548
+      ],
+      "source_500": {
+        "id": "1420557",
+        "number": "周六022",
+        "league": "英超",
+        "home": "热刺",
+        "away": "水晶宫",
+        "time": "11-01 01:30",
+        "status": "4",
+        "score": [
+          2,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1420557",
+        "home_red": 0,
+        "away_red": 1
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042406",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T01:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.8658562223364012
+    },
+    {
+      "match_id": "2042407",
+      "number": "周六023",
+      "home": "拜仁慕尼黑",
+      "away": "多特蒙德",
+      "league": "德甲",
+      "score": [
+        2,
+        2
+      ],
+      "total": 4,
+      "probabilities": [
+        0.025381591103395884,
+        0.09117891859588019,
+        0.1657775463599559,
+        0.20337044246159316,
+        0.18935260768167203,
+        0.142706650115121,
+        0.09067262325550297,
+        0.09155962042687893
+      ],
+      "source_500": {
+        "id": "1428603",
+        "number": "周六023",
+        "league": "德甲",
+        "home": "拜仁",
+        "away": "多特蒙德",
+        "time": "11-01 01:30",
+        "status": "4",
+        "score": [
+          2,
+          2
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428603",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042407",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T01:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.7576158568107783
+    },
+    {
+      "match_id": "2042408",
+      "number": "周六024",
+      "home": "皇家贝蒂斯",
+      "away": "马拉加",
+      "league": "西甲",
+      "score": [
+        2,
+        1
+      ],
+      "total": 3,
+      "probabilities": [
+        0.06347749455491716,
+        0.1679056744809147,
+        0.22878956190228464,
+        0.21394183647206397,
+        0.15432712788240957,
+        0.09153134183657141,
+        0.046461179777797956,
+        0.03356578309304059
+      ],
+      "source_500": {
+        "id": "1428117",
+        "number": "周六024",
+        "league": "西甲",
+        "home": "贝蒂斯",
+        "away": "马拉加",
+        "time": "11-01 01:30",
+        "status": "4",
+        "score": [
+          2,
+          1
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428117",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042408",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T01:30:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.8754257912833943
+    },
+    {
+      "match_id": "2042409",
+      "number": "周六025",
+      "home": "AC米兰",
+      "away": "国际米兰",
+      "league": "意甲",
+      "score": [
+        3,
+        1
+      ],
+      "total": 4,
+      "probabilities": [
+        0.029136336775925892,
+        0.10126237857464349,
+        0.17768417440315015,
+        0.2098625742229964,
+        0.1876806930812127,
+        0.1355477279957451,
+        0.08234616646917803,
+        0.07647994847714823
+      ],
+      "source_500": {
+        "id": "1414237",
+        "number": "周六025",
+        "league": "意甲",
+        "home": "AC米兰",
+        "away": "国际米兰",
+        "time": "11-01 03:45",
+        "status": "4",
+        "score": [
+          3,
+          1
+        ],
+        "url": "https://live.500.com/detail.php?fid=1414237",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042409",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T03:45:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.5974744993344174
+    },
+    {
+      "match_id": "2042410",
+      "number": "周六026",
+      "home": "阿斯顿维拉",
+      "away": "富勒姆",
+      "league": "英超",
+      "score": [
+        1,
+        1
+      ],
+      "total": 2,
+      "probabilities": [
+        0.08752925293192514,
+        0.2085430356929424,
+        0.2529562626413726,
+        0.20821032652479793,
+        0.1307930336414114,
+        0.06686390027008848,
+        0.028968577763003756,
+        0.016135610534458222
+      ],
+      "source_500": {
+        "id": "1420516",
+        "number": "周六026",
+        "league": "英超",
+        "home": "维拉",
+        "away": "富勒姆",
+        "time": "11-01 04:00",
+        "status": "4",
+        "score": [
+          1,
+          1
+        ],
+        "url": "https://live.500.com/detail.php?fid=1420516",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042410",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T04:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 2,
+      "expected": 2.4906095209063928
+    },
+    {
+      "match_id": "2042411",
+      "number": "周六027",
+      "home": "巴塞罗那",
+      "away": "阿拉维斯",
+      "league": "西甲",
+      "score": [
+        6,
+        1
+      ],
+      "total": 7,
+      "probabilities": [
+        0.03077849599812088,
+        0.1045913889633182,
+        0.18017735307200392,
+        0.20975753375450656,
+        0.18561854059868327,
+        0.13315674910700584,
+        0.08064858275479403,
+        0.07527135575156729
+      ],
+      "source_500": {
+        "id": "1428121",
+        "number": "周六027",
+        "league": "西甲",
+        "home": "巴萨",
+        "away": "阿拉维斯",
+        "time": "11-01 04:00",
+        "status": "4",
+        "score": [
+          6,
+          1
+        ],
+        "url": "https://live.500.com/detail.php?fid=1428121",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042411",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T04:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.566389330332908
+    },
+    {
+      "match_id": "2042412",
+      "number": "周六028",
+      "home": "阿贾克斯",
+      "away": "阿尔克马尔",
+      "league": "荷甲",
+      "score": [
+        1,
+        0
+      ],
+      "total": 1,
+      "probabilities": [
+        0.032778528587804084,
+        0.10976146572907544,
+        0.1859859846293779,
+        0.2125972435047791,
+        0.1844057968610052,
+        0.12944970537728692,
+        0.07659643095231525,
+        0.06842484435835616
+      ],
+      "source_500": {
+        "id": "1416019",
+        "number": "周六028",
+        "league": "荷甲",
+        "home": "阿贾克斯",
+        "away": "阿尔克马",
+        "time": "11-01 04:00",
+        "status": "4",
+        "score": [
+          1,
+          0
+        ],
+        "url": "https://live.500.com/detail.php?fid=1416019",
+        "home_red": 0,
+        "away_red": 0
+      },
+      "source_official": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchHeadV1.qry?source=web&sportteryMatchId=2042412",
+      "forecast_at": "2026-10-31T18:14:50.606989+08:00",
+      "kickoff": "2026-11-01T04:00:00+08:00",
+      "frozen_prediction": true,
+      "modal_bucket": 3,
+      "expected": 3.4893162902858386
+    }
+  ]
+}

@@ -23,8 +23,9 @@ def main():
         reports[name]=dict(scope='all available selected-model forecasts',**metrics([(p,y) for c,p,y in rows]))
     today=read(ROOT/'data/today.json')
     for row in today['matches']:
-        if row['verdict']=='started':
+        if row['verdict'] in ('started','missing'):
             assert row['prediction'] is None and row['forecast_at'] is None
+            if row['verdict']=='missing':assert predict(row['case']) is None
             continue
         c=copy.deepcopy(row['case']);p=predict(c);vectors.append(tuple(p['probabilities']))
         assert p['probabilities']==row['prediction']['probabilities']
@@ -40,7 +41,7 @@ def main():
         assert abs(predict(changed)['total_expected_goals']-p['total_expected_goals'])>1e-6
         for side in ('home_inputs','away_inputs'):
             assert all(r['date']<=c['latest_permitted_date'] for r in p[side]['rows'])
-    assert len(vectors)==len(set(vectors))==23
+    assert len(vectors)==len(set(vectors))==sum(bool(r['prediction']) for r in today['matches'])
     report=dict(passed=True,historical_targets=len(frozen['reviews']),available=len(results),today_predictions=len(vectors),
                 unique_probability_vectors=len(set(vectors)),league_poisoning_ignored=True,target_outcome_ignored=True,
                 prices_ignored=True,future_records_ignored=True,own_data_changes_result=True,no_data_returns_none=True,

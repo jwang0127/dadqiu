@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "review_rows": 28,
+  "archived_forecasts": 23,
+  "missing_archive": 5,
+  "current_fixtures": 25,
+  "current_forecasts": 24,
+  "unique_probability_vectors": 24,
+  "raw_duplicates_merged_current_predicted": 431,
+  "current_shared_historical_pairs": 7,
+  "results_500_all_agree": true,
+  "archive_sha256_verified": true,
+  "case_inputs_market_and_outcome_free": true,
+  "poisoning_ignored": true,
+  "all_before_kickoff": true,
+  "source_hashes_verified": true,
+  "html_json_equal": true
+}

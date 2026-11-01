@@ -1,0 +1,5 @@
+{
+  "url": "https://webapi.sporttery.cn/gateway/uniform/football/getMatchResultV1.qry?sportteryMatchId=2042432&termLimits=20&tournamentFlag=1&homeAwayFlag=1",
+  "received_at": "2026-11-01T09:31:51.688691+08:00",
+  "sha256": "596f2f8a7c0c82d842cb5325bc6b3b1e3f324fa44ca3c8558f17d71fce56decf"
+}
